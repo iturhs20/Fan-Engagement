@@ -32,7 +32,7 @@ const SideNavbar = () => {
     { icon: <PieChart className="w-5 h-5 text-purple-500" />, label: 'Awareness', active: true },
     { icon: <ThumbsUp className="w-5 h-5 text-yellow-500" />, label: 'On Boarding' },
     { icon: <MessageSquare className="w-5 h-5 text-red-500" />, label: 'Engagement' },
-    { icon: <BarChart2 className="w-5 h-5 text-blue-500" />, label: 'Conversion' },
+    // { icon: <BarChart2 className="w-5 h-5 text-blue-500" />, label: 'Conversion' },
     { icon: <ShoppingBag className="w-5 h-5 text-green-500" />, label: 'Micro Market Strategy' },
     { icon: <Users className="w-5 h-5 text-indigo-500" />, label: 'Management Analysis' },
     { icon: <Award className="w-5 h-5 text-yellow-400" />, label: 'Contest' },
