@@ -1,0 +1,1091 @@
+Login_ID,Contest_ID,Contest_Name,Sport_Type,Time_Spent_Hours,Item_Purchased,Purchase_Value,Age_Group,Location,Device,Gender,Purchase_Value
+C001_1,C001,Football Prediction Challenge,Football,85.27,Match Tickets,715.49,36-45,India,Tablet,Male,0
+C001_2,C001,Football Prediction Challenge,Football,155.9,Match Tickets,104.18,36-45,Germany,Tablet,Female,0
+C001_3,C001,Football Prediction Challenge,Football,848.95,,0,18-25,USA,Mobile,Male,0
+C001_4,C001,Football Prediction Challenge,Football,271.91,Signed Jersey,514.5,26-35,USA,Mobile,Female,0
+C001_5,C001,Football Prediction Challenge,Football,774.55,,0,26-35,Australia,Desktop,Female,0
+C001_6,C001,Football Prediction Challenge,Football,342.39,,0,<18,Brazil,Mobile,Female,0
+C001_7,C001,Football Prediction Challenge,Football,866.35,,0,26-35,UK,Tablet,Male,0
+C001_8,C001,Football Prediction Challenge,Football,179.54,,0,18-25,USA,Desktop,Male,0
+C001_9,C001,Football Prediction Challenge,Football,768.46,,0,26-35,Brazil,Mobile,Male,0
+C001_10,C001,Football Prediction Challenge,Football,228.99,,0,18-25,Brazil,Mobile,Male,0
+C001_11,C001,Football Prediction Challenge,Football,92.38,Discount Voucher,586.35,60+,India,Mobile,Female,0
+C001_12,C001,Football Prediction Challenge,Football,722.49,,0,18-25,Germany,Mobile,Male,0
+C001_13,C001,Football Prediction Challenge,Football,146.91,,0,18-25,India,Mobile,Male,0
+C001_14,C001,Football Prediction Challenge,Football,198.24,,0,18-25,India,Mobile,Female,0
+C001_15,C001,Football Prediction Challenge,Football,616.19,,0,46-60,USA,Mobile,Female,0
+C001_16,C001,Football Prediction Challenge,Football,544.55,,0,60+,UK,Mobile,Male,0
+C001_17,C001,Football Prediction Challenge,Football,210.42,,0,26-35,USA,Desktop,Male,0
+C001_18,C001,Football Prediction Challenge,Football,729.45,,0,26-35,USA,Mobile,Male,0
+C001_19,C001,Football Prediction Challenge,Football,765.56,Fan Token,316.11,18-25,UK,Desktop,Female,0
+C001_20,C001,Football Prediction Challenge,Football,304.11,,0,18-25,USA,Mobile,Female,0
+C001_21,C001,Football Prediction Challenge,Football,220.58,,0,<18,Brazil,Mobile,Male,0
+C001_22,C001,Football Prediction Challenge,Football,607.93,,0,36-45,Brazil,Desktop,Female,0
+C001_23,C001,Football Prediction Challenge,Football,760.34,,0,18-25,Brazil,Tablet,Male,0
+C001_24,C001,Football Prediction Challenge,Football,216.08,Merchandise Pack,350.31,36-45,India,Mobile,Male,0
+C001_25,C001,Football Prediction Challenge,Football,389.09,,0,26-35,Australia,Tablet,Female,0
+C001_26,C001,Football Prediction Challenge,Football,829.81,,0,26-35,India,Desktop,Female,0
+C001_27,C001,Football Prediction Challenge,Football,760.78,,0,46-60,UK,Desktop,Male,0
+C001_28,C001,Football Prediction Challenge,Football,584.29,,0,18-25,India,Tablet,Male,0
+C001_29,C001,Football Prediction Challenge,Football,858.67,,0,18-25,Brazil,Tablet,Male,0
+C001_30,C001,Football Prediction Challenge,Football,315.71,Match Tickets,371.12,26-35,USA,Mobile,Female,0
+C001_31,C001,Football Prediction Challenge,Football,327.46,,0,18-25,Germany,Desktop,Female,0
+C001_32,C001,Football Prediction Challenge,Football,398.37,,0,18-25,USA,Mobile,Female,0
+C001_33,C001,Football Prediction Challenge,Football,828.94,Discount Voucher,329.37,26-35,USA,Tablet,Male,0
+C001_34,C001,Football Prediction Challenge,Football,659.7,Discount Voucher,542.73,46-60,Australia,Mobile,Male,0
+C001_35,C001,Football Prediction Challenge,Football,345.15,Signed Jersey,620.04,18-25,UK,Tablet,Male,0
+C001_36,C001,Football Prediction Challenge,Football,287,,0,18-25,Brazil,Tablet,Female,0
+C001_37,C001,Football Prediction Challenge,Football,817.33,Discount Voucher,624.78,18-25,Australia,Mobile,Male,0
+C001_38,C001,Football Prediction Challenge,Football,133.42,,0,26-35,Germany,Tablet,Female,0
+C001_39,C001,Football Prediction Challenge,Football,342.83,,0,46-60,Germany,Tablet,Male,0
+C001_40,C001,Football Prediction Challenge,Football,412.73,Merchandise Pack,512.65,18-25,Germany,Desktop,Female,0
+C002_1,C002,Basketball Trivia Challenge,Basketball,348.82,,0,26-35,India,Mobile,Male,0
+C002_2,C002,Basketball Trivia Challenge,Basketball,651.56,Merchandise Pack,333.38,26-35,Germany,Tablet,Female,0
+C002_3,C002,Basketball Trivia Challenge,Basketball,180.36,,0,26-35,India,Tablet,Male,0
+C002_4,C002,Basketball Trivia Challenge,Basketball,119.37,,0,26-35,Australia,Tablet,Female,0
+C002_5,C002,Basketball Trivia Challenge,Basketball,210.08,,0,<18,India,Mobile,Male,0
+C002_6,C002,Basketball Trivia Challenge,Basketball,159.81,Merchandise Pack,222.28,18-25,USA,Tablet,Male,0
+C002_7,C002,Basketball Trivia Challenge,Basketball,444.89,Signed Jersey,452.56,<18,UK,Desktop,Female,0
+C002_8,C002,Basketball Trivia Challenge,Basketball,506.41,,0,26-35,UK,Desktop,Female,0
+C002_9,C002,Basketball Trivia Challenge,Basketball,576.17,,0,<18,Brazil,Desktop,Female,0
+C002_10,C002,Basketball Trivia Challenge,Basketball,294.37,,0,36-45,Australia,Tablet,Female,0
+C002_11,C002,Basketball Trivia Challenge,Basketball,721.59,,0,36-45,India,Tablet,Female,0
+C002_12,C002,Basketball Trivia Challenge,Basketball,744.62,Signed Jersey,783.67,<18,USA,Mobile,Female,0
+C002_13,C002,Basketball Trivia Challenge,Basketball,203.14,,0,26-35,UK,Mobile,Male,0
+C002_14,C002,Basketball Trivia Challenge,Basketball,559.42,,0,36-45,Brazil,Tablet,Male,0
+C002_15,C002,Basketball Trivia Challenge,Basketball,634.41,,0,26-35,USA,Mobile,Female,0
+C002_16,C002,Basketball Trivia Challenge,Basketball,534.55,Signed Jersey,396.25,26-35,Australia,Desktop,Male,0
+C002_17,C002,Basketball Trivia Challenge,Basketball,151.57,Fan Token,684.64,36-45,Australia,Desktop,Male,0
+C002_18,C002,Basketball Trivia Challenge,Basketball,612.16,,0,26-35,UK,Mobile,Female,0
+C002_19,C002,Basketball Trivia Challenge,Basketball,306.93,Fan Token,124.44,<18,Australia,Tablet,Male,0
+C002_20,C002,Basketball Trivia Challenge,Basketball,211.38,,0,46-60,Germany,Desktop,Male,0
+C002_21,C002,Basketball Trivia Challenge,Basketball,765.3,Fan Token,795.45,18-25,USA,Tablet,Male,0
+C002_22,C002,Basketball Trivia Challenge,Basketball,735.98,Merchandise Pack,464.64,26-35,Brazil,Tablet,Female,0
+C002_23,C002,Basketball Trivia Challenge,Basketball,120.68,,0,26-35,Brazil,Mobile,Female,0
+C002_24,C002,Basketball Trivia Challenge,Basketball,498.29,,0,<18,Australia,Desktop,Male,0
+C002_25,C002,Basketball Trivia Challenge,Basketball,497.37,Fan Token,999.38,26-35,Germany,Desktop,Female,0
+C002_26,C002,Basketball Trivia Challenge,Basketball,615.83,,0,26-35,India,Desktop,Male,0
+C002_27,C002,Basketball Trivia Challenge,Basketball,270.68,Signed Jersey,850.73,<18,Brazil,Tablet,Male,0
+C002_28,C002,Basketball Trivia Challenge,Basketball,753.52,,0,<18,USA,Desktop,Female,0
+C002_29,C002,Basketball Trivia Challenge,Basketball,714.26,,0,18-25,UK,Desktop,Male,0
+C002_30,C002,Basketball Trivia Challenge,Basketball,322.77,Match Tickets,846.8,18-25,India,Mobile,Female,0
+C002_31,C002,Basketball Trivia Challenge,Basketball,527.74,,0,26-35,Australia,Desktop,Male,0
+C002_32,C002,Basketball Trivia Challenge,Basketball,639.91,,0,36-45,India,Mobile,Male,0
+C002_33,C002,Basketball Trivia Challenge,Basketball,567.79,,0,<18,India,Desktop,Female,0
+C002_34,C002,Basketball Trivia Challenge,Basketball,676.95,Signed Jersey,759.83,18-25,USA,Desktop,Female,0
+C002_35,C002,Basketball Trivia Challenge,Basketball,253.66,,0,36-45,USA,Mobile,Female,0
+C002_36,C002,Basketball Trivia Challenge,Basketball,170.81,Fan Token,741.4,36-45,USA,Mobile,Female,0
+C002_37,C002,Basketball Trivia Challenge,Basketball,137.69,Match Tickets,593.92,<18,Australia,Desktop,Male,0
+C002_38,C002,Basketball Trivia Challenge,Basketball,392.66,,0,26-35,UK,Mobile,Male,0
+C002_39,C002,Basketball Trivia Challenge,Basketball,221.86,Discount Voucher,821.11,<18,Germany,Tablet,Female,0
+C002_40,C002,Basketball Trivia Challenge,Basketball,244.63,Match Tickets,933.69,26-35,USA,Mobile,Male,0
+C003_1,C003,Football Fantasy League Challenge,Basketball,179.28,Match Tickets,150.28,36-45,UK,Mobile,Male,0
+C003_2,C003,Football Fantasy League Challenge,Basketball,143.44,Fan Token,229.57,26-35,UK,Mobile,Male,0
+C003_3,C003,Football Fantasy League Challenge,Basketball,264.43,,0,26-35,India,Tablet,Male,0
+C003_4,C003,Football Fantasy League Challenge,Basketball,165.19,,0,<18,Germany,Mobile,Male,0
+C003_5,C003,Football Fantasy League Challenge,Basketball,129.98,,0,36-45,UK,Tablet,Male,0
+C003_6,C003,Football Fantasy League Challenge,Basketball,290.07,,0,26-35,India,Desktop,Female,0
+C003_7,C003,Football Fantasy League Challenge,Basketball,107.1,,0,18-25,UK,Mobile,Female,0
+C003_8,C003,Football Fantasy League Challenge,Basketball,141.88,,0,36-45,USA,Tablet,Female,0
+C003_9,C003,Football Fantasy League Challenge,Basketball,78.2,,0,18-25,USA,Mobile,Female,0
+C003_10,C003,Football Fantasy League Challenge,Basketball,403.12,,0,<18,India,Tablet,Female,0
+C003_11,C003,Football Fantasy League Challenge,Basketball,199.04,,0,36-45,USA,Tablet,Male,0
+C003_12,C003,Football Fantasy League Challenge,Basketball,86.98,Signed Jersey,929.21,36-45,India,Mobile,Female,0
+C003_13,C003,Football Fantasy League Challenge,Basketball,182.97,,0,18-25,UK,Tablet,Male,0
+C003_14,C003,Football Fantasy League Challenge,Basketball,308.27,,0,46-60,Germany,Mobile,Male,0
+C003_15,C003,Football Fantasy League Challenge,Basketball,83.23,,0,26-35,Brazil,Mobile,Female,0
+C003_16,C003,Football Fantasy League Challenge,Basketball,321.16,Discount Voucher,119.54,36-45,Germany,Tablet,Female,0
+C003_17,C003,Football Fantasy League Challenge,Basketball,284.12,,0,26-35,UK,Mobile,Female,0
+C003_18,C003,Football Fantasy League Challenge,Basketball,302.75,,0,36-45,Germany,Mobile,Female,0
+C003_19,C003,Football Fantasy League Challenge,Basketball,320.6,,0,26-35,India,Mobile,Male,0
+C003_20,C003,Football Fantasy League Challenge,Basketball,402.41,,0,36-45,Australia,Desktop,Male,0
+C003_21,C003,Football Fantasy League Challenge,Basketball,379.04,,0,<18,India,Desktop,Male,0
+C003_22,C003,Football Fantasy League Challenge,Basketball,117.09,,0,<18,UK,Desktop,Male,0
+C003_23,C003,Football Fantasy League Challenge,Basketball,136.36,,0,18-25,India,Desktop,Female,0
+C003_24,C003,Football Fantasy League Challenge,Basketball,139.12,,0,26-35,Australia,Mobile,Male,0
+C003_25,C003,Football Fantasy League Challenge,Basketball,412.97,,0,<18,Australia,Desktop,Male,0
+C003_26,C003,Football Fantasy League Challenge,Basketball,127.86,Match Tickets,642.73,26-35,Brazil,Mobile,Female,0
+C003_27,C003,Football Fantasy League Challenge,Basketball,338.8,,0,18-25,India,Desktop,Female,0
+C003_28,C003,Football Fantasy League Challenge,Basketball,182.97,Fan Token,474.42,36-45,USA,Desktop,Female,0
+C003_29,C003,Football Fantasy League Challenge,Basketball,56.17,,0,<18,Germany,Mobile,Male,0
+C003_30,C003,Football Fantasy League Challenge,Basketball,128.14,,0,18-25,Australia,Mobile,Male,0
+C003_31,C003,Football Fantasy League Challenge,Basketball,376.2,,0,18-25,India,Tablet,Female,0
+C003_32,C003,Football Fantasy League Challenge,Basketball,160.23,Fan Token,211.28,26-35,USA,Desktop,Female,0
+C003_33,C003,Football Fantasy League Challenge,Basketball,204.43,,0,18-25,Australia,Desktop,Male,0
+C003_34,C003,Football Fantasy League Challenge,Basketball,47.53,,0,26-35,Germany,Tablet,Male,0
+C003_35,C003,Football Fantasy League Challenge,Basketball,347.8,,0,26-35,Brazil,Mobile,Female,0
+C003_36,C003,Football Fantasy League Challenge,Basketball,47.39,Match Tickets,670.49,26-35,Germany,Mobile,Male,0
+C003_37,C003,Football Fantasy League Challenge,Basketball,293.75,Match Tickets,511.69,26-35,India,Desktop,Female,0
+C003_38,C003,Football Fantasy League Challenge,Basketball,65.38,,0,<18,USA,Mobile,Male,0
+C003_39,C003,Football Fantasy League Challenge,Basketball,375.92,,0,<18,Australia,Mobile,Male,0
+C003_40,C003,Football Fantasy League Challenge,Basketball,152.93,Match Tickets,912.21,18-25,Brazil,Desktop,Male,0
+C003_41,C003,Football Fantasy League Challenge,Basketball,147.76,,0,46-60,Australia,Desktop,Male,0
+C003_42,C003,Football Fantasy League Challenge,Basketball,128.78,,0,26-35,UK,Desktop,Male,0
+C003_43,C003,Football Fantasy League Challenge,Basketball,248.91,Discount Voucher,458.6,36-45,UK,Desktop,Female,0
+C003_44,C003,Football Fantasy League Challenge,Basketball,43.78,,0,<18,Germany,Mobile,Female,0
+C003_45,C003,Football Fantasy League Challenge,Basketball,177.3,,0,36-45,India,Desktop,Male,0
+C003_46,C003,Football Fantasy League Challenge,Basketball,338.87,,0,<18,UK,Mobile,Female,0
+C003_47,C003,Football Fantasy League Challenge,Basketball,126.44,,0,18-25,Brazil,Mobile,Male,0
+C003_48,C003,Football Fantasy League Challenge,Basketball,370.54,Discount Voucher,916.82,36-45,UK,Desktop,Male,0
+C003_49,C003,Football Fantasy League Challenge,Basketball,190.26,Signed Jersey,923.77,18-25,India,Mobile,Female,0
+C003_50,C003,Football Fantasy League Challenge,Basketball,232.48,,0,26-35,Australia,Mobile,Female,0
+C003_51,C003,Football Fantasy League Challenge,Basketball,337.17,Fan Token,290.45,26-35,Germany,Desktop,Female,0
+C003_52,C003,Football Fantasy League Challenge,Basketball,254.3,,0,18-25,Brazil,Tablet,Female,0
+C003_53,C003,Football Fantasy League Challenge,Basketball,192.67,,0,26-35,Brazil,Tablet,Male,0
+C003_54,C003,Football Fantasy League Challenge,Basketball,402.76,,0,18-25,Australia,Desktop,Female,0
+C003_55,C003,Football Fantasy League Challenge,Basketball,288.44,,0,26-35,India,Desktop,Female,0
+C003_56,C003,Football Fantasy League Challenge,Basketball,349.36,Merchandise Pack,949.78,<18,Germany,Tablet,Female,0
+C003_57,C003,Football Fantasy League Challenge,Basketball,196.78,Signed Jersey,305.93,26-35,UK,Desktop,Male,0
+C003_58,C003,Football Fantasy League Challenge,Basketball,414.88,,0,26-35,Germany,Desktop,Female,0
+C003_59,C003,Football Fantasy League Challenge,Basketball,156.69,Discount Voucher,943.77,18-25,USA,Mobile,Female,0
+C003_60,C003,Football Fantasy League Challenge,Basketball,98.32,,0,18-25,USA,Mobile,Male,0
+C003_61,C003,Football Fantasy League Challenge,Basketball,162.07,,0,<18,UK,Mobile,Female,0
+C003_62,C003,Football Fantasy League Challenge,Basketball,399.79,,0,26-35,India,Mobile,Male,0
+C003_63,C003,Football Fantasy League Challenge,Basketball,228.37,,0,36-45,Brazil,Desktop,Male,0
+C003_64,C003,Football Fantasy League Challenge,Basketball,180.2,,0,36-45,India,Desktop,Male,0
+C003_65,C003,Football Fantasy League Challenge,Basketball,349.14,Merchandise Pack,736.45,<18,Brazil,Mobile,Female,0
+C003_66,C003,Football Fantasy League Challenge,Basketball,418.14,Discount Voucher,503.08,18-25,Australia,Mobile,Male,0
+C003_67,C003,Football Fantasy League Challenge,Basketball,296.51,,0,<18,India,Mobile,Female,0
+C003_68,C003,Football Fantasy League Challenge,Basketball,287.23,Fan Token,339.04,36-45,Australia,Desktop,Male,0
+C003_69,C003,Football Fantasy League Challenge,Basketball,99.66,Merchandise Pack,659.28,26-35,India,Tablet,Male,0
+C003_70,C003,Football Fantasy League Challenge,Basketball,134.87,,0,18-25,Australia,Mobile,Male,0
+C003_71,C003,Football Fantasy League Challenge,Basketball,178.43,Fan Token,334.57,46-60,USA,Desktop,Male,0
+C003_72,C003,Football Fantasy League Challenge,Basketball,423.31,,0,26-35,India,Mobile,Male,0
+C003_73,C003,Football Fantasy League Challenge,Basketball,405.1,,0,<18,Australia,Mobile,Female,0
+C003_74,C003,Football Fantasy League Challenge,Basketball,157.25,Fan Token,805.52,26-35,India,Mobile,Female,0
+C003_75,C003,Football Fantasy League Challenge,Basketball,131.47,,0,<18,USA,Tablet,Male,0
+C003_76,C003,Football Fantasy League Challenge,Basketball,366.21,,0,36-45,Germany,Mobile,Male,0
+C003_77,C003,Football Fantasy League Challenge,Basketball,377.12,,0,<18,Brazil,Desktop,Male,0
+C003_78,C003,Football Fantasy League Challenge,Basketball,189.77,Signed Jersey,944.78,26-35,Germany,Tablet,Male,0
+C003_79,C003,Football Fantasy League Challenge,Basketball,423.31,,0,36-45,UK,Mobile,Male,0
+C003_80,C003,Football Fantasy League Challenge,Basketball,122.9,Fan Token,328.13,36-45,Australia,Desktop,Male,0
+C003_81,C003,Football Fantasy League Challenge,Basketball,95.63,Discount Voucher,904.55,26-35,Brazil,Desktop,Male,0
+C003_82,C003,Football Fantasy League Challenge,Basketball,340.43,,0,36-45,Germany,Desktop,Female,0
+C003_83,C003,Football Fantasy League Challenge,Basketball,68.21,,0,<18,UK,Mobile,Male,0
+C003_84,C003,Football Fantasy League Challenge,Basketball,269.45,,0,26-35,USA,Tablet,Male,0
+C003_85,C003,Football Fantasy League Challenge,Basketball,49.23,,0,26-35,USA,Desktop,Female,0
+C003_86,C003,Football Fantasy League Challenge,Basketball,373.44,Discount Voucher,108.38,46-60,India,Mobile,Female,0
+C003_87,C003,Football Fantasy League Challenge,Basketball,286.03,,0,46-60,Brazil,Mobile,Female,0
+C003_88,C003,Football Fantasy League Challenge,Basketball,52.13,,0,<18,Germany,Mobile,Male,0
+C003_89,C003,Football Fantasy League Challenge,Basketball,272.36,Merchandise Pack,609.31,36-45,USA,Tablet,Female,0
+C003_90,C003,Football Fantasy League Challenge,Basketball,239.35,,0,18-25,India,Tablet,Female,0
+C003_91,C003,Football Fantasy League Challenge,Basketball,138.55,,0,18-25,India,Desktop,Female,0
+C003_92,C003,Football Fantasy League Challenge,Basketball,294.6,,0,18-25,India,Tablet,Male,0
+C003_93,C003,Football Fantasy League Challenge,Basketball,308.13,Fan Token,728.88,26-35,Brazil,Desktop,Male,0
+C003_94,C003,Football Fantasy League Challenge,Basketball,333.49,,0,26-35,Australia,Tablet,Female,0
+C003_95,C003,Football Fantasy League Challenge,Basketball,308.98,,0,<18,Brazil,Tablet,Female,0
+C003_96,C003,Football Fantasy League Challenge,Basketball,181.27,,0,26-35,USA,Tablet,Male,0
+C003_97,C003,Football Fantasy League Challenge,Basketball,107.1,,0,18-25,Australia,Tablet,Female,0
+C003_98,C003,Football Fantasy League Challenge,Basketball,284.26,Discount Voucher,585.28,<18,Brazil,Mobile,Female,0
+C003_99,C003,Football Fantasy League Challenge,Basketball,77.56,,0,<18,India,Tablet,Female,0
+C003_100,C003,Football Fantasy League Challenge,Basketball,127.15,Fan Token,872.57,26-35,Australia,Tablet,Female,0
+C003_101,C003,Football Fantasy League Challenge,Basketball,142.87,Merchandise Pack,179.59,<18,USA,Tablet,Male,0
+C003_102,C003,Football Fantasy League Challenge,Basketball,73.74,Signed Jersey,748.34,36-45,India,Mobile,Male,0
+C003_103,C003,Football Fantasy League Challenge,Basketball,152.22,Signed Jersey,741.13,18-25,Australia,Desktop,Male,0
+C003_104,C003,Football Fantasy League Challenge,Basketball,374.29,,0,36-45,USA,Tablet,Male,0
+C003_105,C003,Football Fantasy League Challenge,Basketball,221.85,Match Tickets,440.85,<18,Germany,Tablet,Female,0
+C003_106,C003,Football Fantasy League Challenge,Basketball,328.96,Discount Voucher,155.23,18-25,UK,Tablet,Female,0
+C003_107,C003,Football Fantasy League Challenge,Basketball,285.6,Match Tickets,497.05,36-45,USA,Tablet,Male,0
+C003_108,C003,Football Fantasy League Challenge,Basketball,387.39,,0,46-60,USA,Desktop,Female,0
+C003_109,C003,Football Fantasy League Challenge,Basketball,279.94,Signed Jersey,952.42,26-35,India,Mobile,Male,0
+C003_110,C003,Football Fantasy League Challenge,Basketball,403.69,Match Tickets,594.48,60+,UK,Mobile,Male,0
+C003_111,C003,Football Fantasy League Challenge,Basketball,202.52,,0,18-25,Germany,Desktop,Male,0
+C003_112,C003,Football Fantasy League Challenge,Basketball,394.97,,0,<18,UK,Mobile,Female,0
+C003_113,C003,Football Fantasy League Challenge,Basketball,348.58,,0,18-25,USA,Desktop,Female,0
+C003_114,C003,Football Fantasy League Challenge,Basketball,215.2,,0,60+,UK,Desktop,Male,0
+C003_115,C003,Football Fantasy League Challenge,Basketball,405.95,Merchandise Pack,352.38,<18,Australia,Desktop,Female,0
+C003_116,C003,Football Fantasy League Challenge,Basketball,199.4,,0,18-25,Brazil,Tablet,Male,0
+C003_117,C003,Football Fantasy League Challenge,Basketball,64.03,,0,46-60,Germany,Mobile,Female,0
+C003_118,C003,Football Fantasy League Challenge,Basketball,57.02,,0,18-25,Germany,Tablet,Female,0
+C003_119,C003,Football Fantasy League Challenge,Basketball,314.36,Discount Voucher,455.16,<18,Germany,Desktop,Male,0
+C003_120,C003,Football Fantasy League Challenge,Basketball,412.54,Signed Jersey,891.88,36-45,Germany,Tablet,Female,0
+C003_121,C003,Football Fantasy League Challenge,Basketball,61.63,,0,36-45,Australia,Desktop,Male,0
+C003_122,C003,Football Fantasy League Challenge,Basketball,144.15,,0,18-25,UK,Mobile,Female,0
+C003_123,C003,Football Fantasy League Challenge,Basketball,414.95,,0,<18,USA,Desktop,Female,0
+C003_124,C003,Football Fantasy League Challenge,Basketball,342.77,Signed Jersey,179.7,18-25,UK,Mobile,Male,0
+C003_125,C003,Football Fantasy League Challenge,Basketball,110.79,Discount Voucher,473.5,26-35,Brazil,Tablet,Female,0
+C003_126,C003,Football Fantasy League Challenge,Basketball,61.06,,0,26-35,India,Mobile,Male,0
+C003_127,C003,Football Fantasy League Challenge,Basketball,211.09,,0,36-45,India,Mobile,Female,0
+C003_128,C003,Football Fantasy League Challenge,Basketball,164.55,,0,26-35,UK,Desktop,Male,0
+C003_129,C003,Football Fantasy League Challenge,Basketball,316.91,,0,36-45,Australia,Desktop,Male,0
+C003_130,C003,Football Fantasy League Challenge,Basketball,149.18,Fan Token,324.69,18-25,USA,Mobile,Female,0
+C003_131,C003,Football Fantasy League Challenge,Basketball,242.89,,0,<18,Germany,Desktop,Male,0
+C003_132,C003,Football Fantasy League Challenge,Basketball,341,,0,26-35,Germany,Desktop,Male,0
+C003_133,C003,Football Fantasy League Challenge,Basketball,252.81,,0,<18,USA,Desktop,Female,0
+C003_134,C003,Football Fantasy League Challenge,Basketball,145,,0,<18,India,Tablet,Female,0
+C003_135,C003,Football Fantasy League Challenge,Basketball,120.14,,0,46-60,India,Mobile,Female,0
+C003_136,C003,Football Fantasy League Challenge,Basketball,303.38,Merchandise Pack,674.42,18-25,Brazil,Tablet,Male,0
+C003_137,C003,Football Fantasy League Challenge,Basketball,221.07,Discount Voucher,289.5,<18,Germany,Mobile,Female,0
+C003_138,C003,Football Fantasy League Challenge,Basketball,294.25,,0,18-25,Brazil,Tablet,Male,0
+C003_139,C003,Football Fantasy League Challenge,Basketball,61.13,,0,18-25,Brazil,Desktop,Female,0
+C003_140,C003,Football Fantasy League Challenge,Basketball,272.64,,0,18-25,Australia,Tablet,Male,0
+C003_141,C003,Football Fantasy League Challenge,Basketball,264.78,,0,36-45,Brazil,Mobile,Female,0
+C003_142,C003,Football Fantasy League Challenge,Basketball,311.39,Match Tickets,108.05,26-35,India,Desktop,Female,0
+C003_143,C003,Football Fantasy League Challenge,Basketball,222.14,,0,18-25,India,Desktop,Male,0
+C003_144,C003,Football Fantasy League Challenge,Basketball,389.66,,0,<18,Germany,Desktop,Female,0
+C003_145,C003,Football Fantasy League Challenge,Basketball,101.36,,0,<18,Germany,Desktop,Male,0
+C003_146,C003,Football Fantasy League Challenge,Basketball,123.89,,0,26-35,India,Mobile,Female,0
+C003_147,C003,Football Fantasy League Challenge,Basketball,50.72,,0,<18,Australia,Desktop,Female,0
+C003_148,C003,Football Fantasy League Challenge,Basketball,376.41,,0,36-45,USA,Mobile,Female,0
+C003_149,C003,Football Fantasy League Challenge,Basketball,77.42,,0,26-35,Germany,Desktop,Female,0
+C003_150,C003,Football Fantasy League Challenge,Basketball,104.91,Merchandise Pack,802.86,26-35,India,Desktop,Female,0
+C003_151,C003,Football Fantasy League Challenge,Basketball,88.47,Merchandise Pack,166.32,18-25,Germany,Desktop,Male,0
+C003_152,C003,Football Fantasy League Challenge,Basketball,287.8,,0,26-35,Brazil,Mobile,Female,0
+C003_153,C003,Football Fantasy League Challenge,Basketball,349.21,,0,36-45,Australia,Desktop,Male,0
+C003_154,C003,Football Fantasy League Challenge,Basketball,81.81,,0,18-25,Germany,Mobile,Female,0
+C003_155,C003,Football Fantasy League Challenge,Basketball,149.25,,0,60+,Germany,Desktop,Male,0
+C003_156,C003,Football Fantasy League Challenge,Basketball,324.63,,0,36-45,Brazil,Desktop,Male,0
+C003_157,C003,Football Fantasy League Challenge,Basketball,370.46,,0,26-35,UK,Desktop,Female,0
+C003_158,C003,Football Fantasy League Challenge,Basketball,252.74,,0,26-35,USA,Tablet,Male,0
+C003_159,C003,Football Fantasy League Challenge,Basketball,324.71,,0,36-45,USA,Mobile,Male,0
+C003_160,C003,Football Fantasy League Challenge,Basketball,374.36,,0,<18,India,Desktop,Female,0
+C003_161,C003,Football Fantasy League Challenge,Basketball,120.21,,0,26-35,Germany,Tablet,Male,0
+C003_162,C003,Football Fantasy League Challenge,Basketball,314.51,,0,18-25,Brazil,Desktop,Male,0
+C003_163,C003,Football Fantasy League Challenge,Basketball,338.94,Signed Jersey,976.03,<18,Australia,Mobile,Female,0
+C003_164,C003,Football Fantasy League Challenge,Basketball,363.74,,0,46-60,Germany,Desktop,Male,0
+C003_165,C003,Football Fantasy League Challenge,Basketball,219.73,,0,18-25,India,Desktop,Female,0
+C003_166,C003,Football Fantasy League Challenge,Basketball,301.05,,0,<18,UK,Desktop,Female,0
+C003_167,C003,Football Fantasy League Challenge,Basketball,126.79,,0,60+,India,Desktop,Male,0
+C003_168,C003,Football Fantasy League Challenge,Basketball,328.39,,0,46-60,USA,Tablet,Male,0
+C003_169,C003,Football Fantasy League Challenge,Basketball,323.15,,0,<18,UK,Desktop,Female,0
+C003_170,C003,Football Fantasy League Challenge,Basketball,224.55,Fan Token,866.73,26-35,India,Desktop,Female,0
+C003_171,C003,Football Fantasy League Challenge,Basketball,424.72,,0,18-25,Brazil,Mobile,Male,0
+C003_172,C003,Football Fantasy League Challenge,Basketball,60.21,,0,26-35,UK,Desktop,Female,0
+C003_173,C003,Football Fantasy League Challenge,Basketball,423.09,,0,18-25,UK,Tablet,Male,0
+C003_174,C003,Football Fantasy League Challenge,Basketball,257.84,,0,36-45,USA,Mobile,Male,0
+C003_175,C003,Football Fantasy League Challenge,Basketball,349.85,,0,36-45,India,Mobile,Female,0
+C003_176,C003,Football Fantasy League Challenge,Basketball,205.56,,0,18-25,Germany,Tablet,Male,0
+C003_177,C003,Football Fantasy League Challenge,Basketball,89.61,,0,18-25,UK,Tablet,Male,0
+C003_178,C003,Football Fantasy League Challenge,Basketball,194.79,Signed Jersey,841.7,18-25,Germany,Desktop,Female,0
+C003_179,C003,Football Fantasy League Challenge,Basketball,76.22,Fan Token,785.64,60+,Australia,Desktop,Male,0
+C003_180,C003,Football Fantasy League Challenge,Basketball,263.43,,0,26-35,Germany,Desktop,Female,0
+C003_181,C003,Football Fantasy League Challenge,Basketball,253.8,,0,<18,USA,Desktop,Male,0
+C003_182,C003,Football Fantasy League Challenge,Basketball,324.71,Discount Voucher,565.03,26-35,Germany,Mobile,Female,0
+C003_183,C003,Football Fantasy League Challenge,Basketball,125.59,,0,<18,Brazil,Tablet,Male,0
+C003_184,C003,Football Fantasy League Challenge,Basketball,247.14,,0,26-35,India,Tablet,Male,0
+C003_185,C003,Football Fantasy League Challenge,Basketball,418.28,Discount Voucher,937.97,36-45,Brazil,Tablet,Male,0
+C003_186,C003,Football Fantasy League Challenge,Basketball,177.58,,0,18-25,USA,Desktop,Male,0
+C003_187,C003,Football Fantasy League Challenge,Basketball,110.08,,0,36-45,Brazil,Desktop,Male,0
+C003_188,C003,Football Fantasy League Challenge,Basketball,151.73,,0,46-60,Germany,Tablet,Male,0
+C003_189,C003,Football Fantasy League Challenge,Basketball,41.3,,0,36-45,Germany,Mobile,Male,0
+C003_190,C003,Football Fantasy League Challenge,Basketball,233.82,Match Tickets,526.47,36-45,USA,Desktop,Female,0
+C003_191,C003,Football Fantasy League Challenge,Basketball,305.01,,0,46-60,USA,Tablet,Female,0
+C003_192,C003,Football Fantasy League Challenge,Basketball,381.23,,0,36-45,Australia,Tablet,Female,0
+C003_193,C003,Football Fantasy League Challenge,Basketball,39.95,,0,36-45,UK,Desktop,Male,0
+C003_194,C003,Football Fantasy League Challenge,Basketball,194.72,Discount Voucher,176.01,36-45,Brazil,Mobile,Male,0
+C003_195,C003,Football Fantasy League Challenge,Basketball,379.67,,0,36-45,India,Mobile,Female,0
+C003_196,C003,Football Fantasy League Challenge,Basketball,94.42,Signed Jersey,304.46,26-35,UK,Desktop,Male,0
+C003_197,C003,Football Fantasy League Challenge,Basketball,211.72,,0,26-35,Australia,Tablet,Female,0
+C003_198,C003,Football Fantasy League Challenge,Basketball,237.01,,0,60+,Brazil,Tablet,Male,0
+C003_199,C003,Football Fantasy League Challenge,Basketball,375.42,,0,26-35,USA,Mobile,Female,0
+C003_200,C003,Football Fantasy League Challenge,Basketball,155.2,,0,46-60,Australia,Desktop,Female,0
+C003_201,C003,Football Fantasy League Challenge,Basketball,336.18,,0,36-45,USA,Mobile,Female,0
+C003_202,C003,Football Fantasy League Challenge,Basketball,133.59,Signed Jersey,561.64,18-25,Australia,Mobile,Male,0
+C003_203,C003,Football Fantasy League Challenge,Basketball,221.15,,0,26-35,India,Tablet,Male,0
+C003_204,C003,Football Fantasy League Challenge,Basketball,316.56,,0,36-45,Australia,Tablet,Male,0
+C003_205,C003,Football Fantasy League Challenge,Basketball,175.6,,0,26-35,Germany,Tablet,Male,0
+C003_206,C003,Football Fantasy League Challenge,Basketball,223.34,Fan Token,232.28,36-45,Germany,Tablet,Male,0
+C003_207,C003,Football Fantasy League Challenge,Basketball,59.64,,0,26-35,Australia,Tablet,Female,0
+C003_208,C003,Football Fantasy League Challenge,Basketball,60.85,,0,18-25,Australia,Tablet,Male,0
+C003_209,C003,Football Fantasy League Challenge,Basketball,185.52,,0,<18,Brazil,Tablet,Male,0
+C003_210,C003,Football Fantasy League Challenge,Basketball,392.56,,0,18-25,India,Mobile,Male,0
+C003_211,C003,Football Fantasy League Challenge,Basketball,255.5,,0,<18,Brazil,Tablet,Male,0
+C003_212,C003,Football Fantasy League Challenge,Basketball,125.94,Merchandise Pack,236.27,<18,USA,Tablet,Male,0
+C003_213,C003,Football Fantasy League Challenge,Basketball,42.57,,0,36-45,USA,Desktop,Female,0
+C003_214,C003,Football Fantasy League Challenge,Basketball,185.37,Match Tickets,326.87,26-35,USA,Tablet,Female,0
+C003_215,C003,Football Fantasy League Challenge,Basketball,307.28,,0,18-25,UK,Desktop,Male,0
+C003_216,C003,Football Fantasy League Challenge,Basketball,169.58,,0,26-35,India,Mobile,Male,0
+C003_217,C003,Football Fantasy League Challenge,Basketball,115.39,,0,36-45,USA,Mobile,Male,0
+C003_218,C003,Football Fantasy League Challenge,Basketball,193.17,,0,46-60,UK,Mobile,Male,0
+C003_219,C003,Football Fantasy League Challenge,Basketball,403.61,Signed Jersey,325.27,36-45,USA,Mobile,Male,0
+C003_220,C003,Football Fantasy League Challenge,Basketball,54.12,Fan Token,538.54,46-60,USA,Tablet,Male,0
+C003_221,C003,Football Fantasy League Challenge,Basketball,302.53,,0,36-45,Brazil,Mobile,Male,0
+C003_222,C003,Football Fantasy League Challenge,Basketball,110.22,Signed Jersey,974.93,26-35,India,Mobile,Male,0
+C003_223,C003,Football Fantasy League Challenge,Basketball,238.15,,0,26-35,UK,Desktop,Male,0
+C003_224,C003,Football Fantasy League Challenge,Basketball,375.28,,0,36-45,Brazil,Mobile,Female,0
+C003_225,C003,Football Fantasy League Challenge,Basketball,59.78,Discount Voucher,337.74,46-60,Brazil,Mobile,Female,0
+C003_226,C003,Football Fantasy League Challenge,Basketball,147.76,Fan Token,689.77,36-45,Brazil,Desktop,Male,0
+C003_227,C003,Football Fantasy League Challenge,Basketball,322.16,Merchandise Pack,620.76,36-45,Brazil,Desktop,Female,0
+C003_228,C003,Football Fantasy League Challenge,Basketball,363.17,Match Tickets,688.17,26-35,India,Tablet,Male,0
+C003_229,C003,Football Fantasy League Challenge,Basketball,391.22,Discount Voucher,981.33,26-35,Australia,Mobile,Female,0
+C003_230,C003,Football Fantasy League Challenge,Basketball,187.5,Merchandise Pack,893.81,18-25,Australia,Tablet,Female,0
+C003_231,C003,Football Fantasy League Challenge,Basketball,42.15,,0,26-35,Germany,Mobile,Male,0
+C003_232,C003,Football Fantasy League Challenge,Basketball,315.85,,0,26-35,Brazil,Tablet,Male,0
+C003_233,C003,Football Fantasy League Challenge,Basketball,106.11,,0,18-25,India,Desktop,Female,0
+C003_234,C003,Football Fantasy League Challenge,Basketball,308.13,,0,18-25,UK,Tablet,Male,0
+C003_235,C003,Football Fantasy League Challenge,Basketball,61.2,,0,26-35,Australia,Mobile,Male,0
+C003_236,C003,Football Fantasy League Challenge,Basketball,280.43,,0,60+,India,Mobile,Male,0
+C003_237,C003,Football Fantasy League Challenge,Basketball,276.54,,0,36-45,Germany,Desktop,Female,0
+C003_238,C003,Football Fantasy League Challenge,Basketball,245.94,Merchandise Pack,589.09,26-35,Australia,Tablet,Male,0
+C003_239,C003,Football Fantasy League Challenge,Basketball,142.66,,0,<18,UK,Desktop,Male,0
+C003_240,C003,Football Fantasy League Challenge,Basketball,313.09,,0,<18,USA,Desktop,Male,0
+C003_241,C003,Football Fantasy League Challenge,Basketball,61.77,,0,<18,Australia,Desktop,Female,0
+C003_242,C003,Football Fantasy League Challenge,Basketball,180.91,,0,36-45,Australia,Desktop,Female,0
+C003_243,C003,Football Fantasy League Challenge,Basketball,162.35,Merchandise Pack,964.02,18-25,Germany,Desktop,Male,0
+C003_244,C003,Football Fantasy League Challenge,Basketball,411.55,,0,18-25,India,Desktop,Male,0
+C003_245,C003,Football Fantasy League Challenge,Basketball,237.44,,0,36-45,Australia,Tablet,Male,0
+C003_246,C003,Football Fantasy League Challenge,Basketball,421.11,,0,<18,India,Tablet,Male,0
+C003_247,C003,Football Fantasy League Challenge,Basketball,421.25,,0,26-35,India,Tablet,Male,0
+C003_248,C003,Football Fantasy League Challenge,Basketball,133.38,,0,<18,Australia,Tablet,Male,0
+C003_249,C003,Football Fantasy League Challenge,Basketball,120.21,Discount Voucher,394.56,26-35,USA,Tablet,Female,0
+C003_250,C003,Football Fantasy League Challenge,Basketball,63.96,,0,<18,Germany,Desktop,Female,0
+C003_251,C003,Football Fantasy League Challenge,Basketball,416.22,,0,36-45,USA,Desktop,Male,0
+C003_252,C003,Football Fantasy League Challenge,Basketball,322.01,Match Tickets,292.57,36-45,UK,Tablet,Male,0
+C003_253,C003,Football Fantasy League Challenge,Basketball,132.6,,0,26-35,India,Tablet,Male,0
+C003_254,C003,Football Fantasy League Challenge,Basketball,258.19,,0,18-25,USA,Desktop,Male,0
+C003_255,C003,Football Fantasy League Challenge,Basketball,281.71,Discount Voucher,593.11,46-60,India,Mobile,Male,0
+C003_256,C003,Football Fantasy League Challenge,Basketball,293.11,,0,60+,India,Tablet,Female,0
+C003_257,C003,Football Fantasy League Challenge,Basketball,79.41,,0,<18,Australia,Tablet,Male,0
+C003_258,C003,Football Fantasy League Challenge,Basketball,195.5,Signed Jersey,355.14,26-35,UK,Mobile,Male,0
+C003_259,C003,Football Fantasy League Challenge,Basketball,383.71,Signed Jersey,594.87,<18,UK,Desktop,Male,0
+C003_260,C003,Football Fantasy League Challenge,Basketball,404.25,,0,46-60,USA,Tablet,Female,0
+C004_1,C004,Cricket Trivia Challenge,Cricket,402.01,,0,26-35,Brazil,Mobile,Female,0
+C004_2,C004,Cricket Trivia Challenge,Cricket,249.13,,0,26-35,Germany,Tablet,Female,0
+C004_3,C004,Cricket Trivia Challenge,Cricket,319.72,Merchandise Pack,177.04,<18,Australia,Tablet,Female,0
+C004_4,C004,Cricket Trivia Challenge,Cricket,345.91,,0,26-35,India,Desktop,Female,0
+C004_5,C004,Cricket Trivia Challenge,Cricket,307.4,,0,36-45,UK,Mobile,Male,0
+C004_6,C004,Cricket Trivia Challenge,Cricket,436.89,,0,<18,Australia,Desktop,Male,0
+C004_7,C004,Cricket Trivia Challenge,Cricket,464.42,,0,18-25,Germany,Tablet,Male,0
+C004_8,C004,Cricket Trivia Challenge,Cricket,143.87,,0,18-25,Brazil,Mobile,Female,0
+C004_9,C004,Cricket Trivia Challenge,Cricket,214.25,,0,26-35,USA,Tablet,Male,0
+C004_10,C004,Cricket Trivia Challenge,Cricket,556.95,,0,26-35,Germany,Tablet,Male,0
+C004_11,C004,Cricket Trivia Challenge,Cricket,286.91,,0,60+,Germany,Tablet,Male,0
+C004_12,C004,Cricket Trivia Challenge,Cricket,266.42,,0,36-45,UK,Mobile,Female,0
+C004_13,C004,Cricket Trivia Challenge,Cricket,521.35,,0,26-35,India,Tablet,Male,0
+C004_14,C004,Cricket Trivia Challenge,Cricket,160.22,Discount Voucher,855.26,36-45,USA,Mobile,Female,0
+C004_15,C004,Cricket Trivia Challenge,Cricket,446.82,,0,18-25,USA,Desktop,Male,0
+C004_16,C004,Cricket Trivia Challenge,Cricket,526.42,Signed Jersey,978.4,26-35,Germany,Desktop,Female,0
+C004_17,C004,Cricket Trivia Challenge,Cricket,547.32,,0,18-25,India,Mobile,Female,0
+C004_18,C004,Cricket Trivia Challenge,Cricket,66.24,,0,26-35,Germany,Tablet,Male,0
+C004_19,C004,Cricket Trivia Challenge,Cricket,342.7,,0,26-35,India,Mobile,Female,0
+C004_20,C004,Cricket Trivia Challenge,Cricket,476.22,,0,<18,UK,Desktop,Female,0
+C004_21,C004,Cricket Trivia Challenge,Cricket,427.26,,0,18-25,Australia,Tablet,Female,0
+C004_22,C004,Cricket Trivia Challenge,Cricket,372.71,,0,36-45,UK,Mobile,Male,0
+C004_23,C004,Cricket Trivia Challenge,Cricket,57.86,Match Tickets,196.44,26-35,Brazil,Desktop,Female,0
+C004_24,C004,Cricket Trivia Challenge,Cricket,242.4,,0,36-45,USA,Tablet,Male,0
+C004_25,C004,Cricket Trivia Challenge,Cricket,361.64,,0,26-35,Germany,Desktop,Female,0
+C004_26,C004,Cricket Trivia Challenge,Cricket,214.46,Merchandise Pack,807.75,18-25,USA,Mobile,Female,0
+C004_27,C004,Cricket Trivia Challenge,Cricket,515.45,Merchandise Pack,208.71,18-25,UK,Mobile,Male,0
+C004_28,C004,Cricket Trivia Challenge,Cricket,243.54,Signed Jersey,198.07,18-25,Brazil,Mobile,Female,0
+C004_29,C004,Cricket Trivia Challenge,Cricket,484.91,,0,36-45,Germany,Desktop,Male,0
+C004_30,C004,Cricket Trivia Challenge,Cricket,526.31,,0,36-45,USA,Mobile,Male,0
+C004_31,C004,Cricket Trivia Challenge,Cricket,292.81,Merchandise Pack,943.71,18-25,Brazil,Tablet,Male,0
+C004_32,C004,Cricket Trivia Challenge,Cricket,319.41,Fan Token,483.24,18-25,Germany,Mobile,Female,0
+C004_33,C004,Cricket Trivia Challenge,Cricket,469.7,Signed Jersey,605.87,18-25,USA,Mobile,Female,0
+C004_34,C004,Cricket Trivia Challenge,Cricket,75.87,,0,26-35,USA,Desktop,Male,0
+C004_35,C004,Cricket Trivia Challenge,Cricket,405.84,,0,36-45,Germany,Desktop,Female,0
+C004_36,C004,Cricket Trivia Challenge,Cricket,411.01,,0,26-35,India,Desktop,Male,0
+C004_37,C004,Cricket Trivia Challenge,Cricket,609.01,Discount Voucher,684.44,<18,Brazil,Tablet,Female,0
+C004_38,C004,Cricket Trivia Challenge,Cricket,614.5,,0,36-45,Australia,Desktop,Male,0
+C004_39,C004,Cricket Trivia Challenge,Cricket,235.26,Discount Voucher,340.35,46-60,Australia,Mobile,Female,0
+C004_40,C004,Cricket Trivia Challenge,Cricket,71.11,Signed Jersey,177.01,18-25,USA,Desktop,Female,0
+C004_41,C004,Cricket Trivia Challenge,Cricket,345.7,,0,18-25,UK,Tablet,Male,0
+C004_42,C004,Cricket Trivia Challenge,Cricket,325.62,Match Tickets,683.99,26-35,Brazil,Tablet,Female,0
+C004_43,C004,Cricket Trivia Challenge,Cricket,450.14,Match Tickets,859.02,36-45,UK,Tablet,Male,0
+C004_44,C004,Cricket Trivia Challenge,Cricket,587.9,,0,46-60,Australia,Mobile,Female,0
+C004_45,C004,Cricket Trivia Challenge,Cricket,248.82,Match Tickets,726.62,18-25,Brazil,Desktop,Male,0
+C004_46,C004,Cricket Trivia Challenge,Cricket,101.95,,0,36-45,USA,Mobile,Female,0
+C004_47,C004,Cricket Trivia Challenge,Cricket,394.66,,0,26-35,UK,Tablet,Female,0
+C004_48,C004,Cricket Trivia Challenge,Cricket,551.98,,0,36-45,USA,Mobile,Female,0
+C004_49,C004,Cricket Trivia Challenge,Cricket,176.99,,0,36-45,Australia,Desktop,Female,0
+C004_50,C004,Cricket Trivia Challenge,Cricket,361.95,,0,18-25,UK,Desktop,Male,0
+C004_51,C004,Cricket Trivia Challenge,Cricket,416.6,Discount Voucher,213.5,18-25,UK,Tablet,Male,0
+C004_52,C004,Cricket Trivia Challenge,Cricket,378.51,,0,<18,India,Mobile,Female,0
+C004_53,C004,Cricket Trivia Challenge,Cricket,434.09,,0,26-35,Brazil,Desktop,Male,0
+C004_54,C004,Cricket Trivia Challenge,Cricket,549.81,,0,60+,Australia,Mobile,Female,0
+C004_55,C004,Cricket Trivia Challenge,Cricket,387.62,Fan Token,505.54,<18,India,Desktop,Female,0
+C004_56,C004,Cricket Trivia Challenge,Cricket,255.55,,0,26-35,USA,Mobile,Male,0
+C004_57,C004,Cricket Trivia Challenge,Cricket,179.47,,0,26-35,Australia,Mobile,Female,0
+C004_58,C004,Cricket Trivia Challenge,Cricket,511.31,,0,18-25,USA,Mobile,Male,0
+C004_59,C004,Cricket Trivia Challenge,Cricket,188.58,,0,26-35,UK,Mobile,Female,0
+C004_60,C004,Cricket Trivia Challenge,Cricket,439.27,,0,26-35,India,Mobile,Female,0
+C004_61,C004,Cricket Trivia Challenge,Cricket,581.69,,0,26-35,UK,Mobile,Female,0
+C004_62,C004,Cricket Trivia Challenge,Cricket,376.54,Fan Token,428.19,26-35,India,Tablet,Female,0
+C004_63,C004,Cricket Trivia Challenge,Cricket,547.84,,0,46-60,Germany,Tablet,Male,0
+C004_64,C004,Cricket Trivia Challenge,Cricket,573.1,,0,18-25,Australia,Desktop,Female,0
+C004_65,C004,Cricket Trivia Challenge,Cricket,424.47,,0,46-60,India,Tablet,Male,0
+C004_66,C004,Cricket Trivia Challenge,Cricket,536.04,Match Tickets,692.96,26-35,Germany,Desktop,Male,0
+C004_67,C004,Cricket Trivia Challenge,Cricket,105.47,Signed Jersey,647.64,36-45,UK,Mobile,Male,0
+C004_68,C004,Cricket Trivia Challenge,Cricket,83.01,,0,26-35,USA,Mobile,Female,0
+C004_69,C004,Cricket Trivia Challenge,Cricket,381,,0,26-35,Australia,Tablet,Female,0
+C004_70,C004,Cricket Trivia Challenge,Cricket,558.4,,0,36-45,USA,Mobile,Male,0
+C004_71,C004,Cricket Trivia Challenge,Cricket,489.88,,0,<18,Australia,Desktop,Female,0
+C004_72,C004,Cricket Trivia Challenge,Cricket,558.92,,0,18-25,Australia,Mobile,Female,0
+C004_73,C004,Cricket Trivia Challenge,Cricket,118.72,,0,36-45,Australia,Tablet,Male,0
+C004_74,C004,Cricket Trivia Challenge,Cricket,480.67,,0,18-25,UK,Tablet,Female,0
+C004_75,C004,Cricket Trivia Challenge,Cricket,67.69,,0,36-45,UK,Desktop,Male,0
+C004_76,C004,Cricket Trivia Challenge,Cricket,121.82,,0,18-25,USA,Tablet,Female,0
+C004_77,C004,Cricket Trivia Challenge,Cricket,309.16,,0,<18,Australia,Tablet,Male,0
+C004_78,C004,Cricket Trivia Challenge,Cricket,293.33,,0,18-25,Germany,Desktop,Male,0
+C004_79,C004,Cricket Trivia Challenge,Cricket,425.71,,0,26-35,India,Tablet,Male,0
+C004_80,C004,Cricket Trivia Challenge,Cricket,339.49,,0,46-60,USA,Tablet,Female,0
+C004_81,C004,Cricket Trivia Challenge,Cricket,70.69,Merchandise Pack,726.73,26-35,India,Desktop,Male,0
+C004_82,C004,Cricket Trivia Challenge,Cricket,515.55,,0,18-25,India,Mobile,Female,0
+C004_83,C004,Cricket Trivia Challenge,Cricket,388.96,,0,18-25,Australia,Desktop,Female,0
+C004_84,C004,Cricket Trivia Challenge,Cricket,61.69,,0,18-25,India,Mobile,Male,0
+C004_85,C004,Cricket Trivia Challenge,Cricket,551.98,,0,18-25,UK,Tablet,Female,0
+C004_86,C004,Cricket Trivia Challenge,Cricket,135.49,,0,<18,USA,Desktop,Female,0
+C004_87,C004,Cricket Trivia Challenge,Cricket,468.97,,0,<18,India,Tablet,Female,0
+C004_88,C004,Cricket Trivia Challenge,Cricket,353.67,,0,18-25,Germany,Desktop,Male,0
+C004_89,C004,Cricket Trivia Challenge,Cricket,544.53,Signed Jersey,689.35,26-35,Brazil,Tablet,Male,0
+C004_90,C004,Cricket Trivia Challenge,Cricket,324.28,,0,26-35,Australia,Tablet,Male,0
+C005_1,C005,Basketball Fantasy League Challenge,Football,471.53,Signed Jersey,595.42,<18,UK,Mobile,Male,0
+C005_2,C005,Basketball Fantasy League Challenge,Football,129.33,,0,18-25,Australia,Desktop,Male,0
+C005_3,C005,Basketball Fantasy League Challenge,Football,769.54,,0,<18,Brazil,Tablet,Male,0
+C005_4,C005,Basketball Fantasy League Challenge,Football,202.19,Discount Voucher,359.22,<18,India,Desktop,Male,0
+C005_5,C005,Basketball Fantasy League Challenge,Football,189.61,,0,26-35,India,Tablet,Male,0
+C005_6,C005,Basketball Fantasy League Challenge,Football,147.33,,0,18-25,Germany,Mobile,Male,0
+C005_7,C005,Basketball Fantasy League Challenge,Football,789.59,Signed Jersey,904.63,18-25,India,Tablet,Female,0
+C005_8,C005,Basketball Fantasy League Challenge,Football,401.74,,0,36-45,Australia,Desktop,Female,0
+C005_9,C005,Basketball Fantasy League Challenge,Football,235.54,Discount Voucher,382.59,26-35,USA,Mobile,Female,0
+C005_10,C005,Basketball Fantasy League Challenge,Football,690.4,Match Tickets,438.62,46-60,Australia,Mobile,Male,0
+C005_11,C005,Basketball Fantasy League Challenge,Football,138.25,,0,36-45,Brazil,Tablet,Male,0
+C005_12,C005,Basketball Fantasy League Challenge,Football,875.61,Merchandise Pack,509.47,18-25,UK,Mobile,Male,0
+C005_13,C005,Basketball Fantasy League Challenge,Football,243.01,,0,46-60,USA,Desktop,Female,0
+C005_14,C005,Basketball Fantasy League Challenge,Football,626.02,Merchandise Pack,770.9,26-35,Germany,Mobile,Female,0
+C005_15,C005,Basketball Fantasy League Challenge,Football,843.13,,0,26-35,Brazil,Tablet,Female,0
+C005_16,C005,Basketball Fantasy League Challenge,Football,547.46,,0,36-45,Australia,Desktop,Male,0
+C005_17,C005,Basketball Fantasy League Challenge,Football,636.41,Merchandise Pack,662.55,46-60,UK,Desktop,Male,0
+C005_18,C005,Basketball Fantasy League Challenge,Football,707.81,Match Tickets,160.6,26-35,India,Tablet,Male,0
+C005_19,C005,Basketball Fantasy League Challenge,Football,500.5,,0,18-25,UK,Tablet,Male,0
+C005_20,C005,Basketball Fantasy League Challenge,Football,161.96,Merchandise Pack,713.44,18-25,UK,Desktop,Male,0
+C005_21,C005,Basketball Fantasy League Challenge,Football,184.78,Fan Token,204.98,26-35,UK,Desktop,Male,0
+C005_22,C005,Basketball Fantasy League Challenge,Football,553.46,,0,18-25,Brazil,Desktop,Male,0
+C005_23,C005,Basketball Fantasy League Challenge,Football,638.31,,0,18-25,UK,Mobile,Male,0
+C005_24,C005,Basketball Fantasy League Challenge,Football,510.74,,0,36-45,UK,Tablet,Male,0
+C005_25,C005,Basketball Fantasy League Challenge,Football,754.62,,0,18-25,UK,Desktop,Female,0
+C005_26,C005,Basketball Fantasy League Challenge,Football,190.19,Fan Token,898.66,18-25,USA,Tablet,Male,0
+C005_27,C005,Basketball Fantasy League Challenge,Football,650.75,,0,18-25,Australia,Tablet,Female,0
+C005_28,C005,Basketball Fantasy League Challenge,Football,168.69,,0,46-60,USA,Desktop,Male,0
+C005_29,C005,Basketball Fantasy League Challenge,Football,875.76,,0,26-35,USA,Tablet,Male,0
+C005_30,C005,Basketball Fantasy League Challenge,Football,567.65,,0,36-45,Brazil,Tablet,Female,0
+C005_31,C005,Basketball Fantasy League Challenge,Football,642.12,,0,26-35,UK,Desktop,Male,0
+C005_32,C005,Basketball Fantasy League Challenge,Football,520.83,,0,<18,Brazil,Mobile,Male,0
+C005_33,C005,Basketball Fantasy League Challenge,Football,813.14,,0,36-45,Australia,Tablet,Male,0
+C005_34,C005,Basketball Fantasy League Challenge,Football,520.98,,0,18-25,Germany,Desktop,Male,0
+C005_35,C005,Basketball Fantasy League Challenge,Football,818.85,,0,<18,India,Mobile,Female,0
+C005_36,C005,Basketball Fantasy League Challenge,Football,443.44,,0,26-35,UK,Tablet,Female,0
+C005_37,C005,Basketball Fantasy League Challenge,Football,736.92,,0,36-45,India,Desktop,Male,0
+C005_38,C005,Basketball Fantasy League Challenge,Football,515.42,Fan Token,500.88,26-35,Germany,Desktop,Female,0
+C005_39,C005,Basketball Fantasy League Challenge,Football,112.07,,0,<18,Brazil,Desktop,Female,0
+C005_40,C005,Basketball Fantasy League Challenge,Football,690.98,,0,18-25,Australia,Tablet,Male,0
+C005_41,C005,Basketball Fantasy League Challenge,Football,234.96,Signed Jersey,145.26,<18,UK,Tablet,Male,0
+C005_42,C005,Basketball Fantasy League Challenge,Football,107.82,,0,46-60,Germany,Mobile,Male,0
+C005_43,C005,Basketball Fantasy League Challenge,Football,739.84,,0,26-35,USA,Mobile,Male,0
+C005_44,C005,Basketball Fantasy League Challenge,Football,561.65,Match Tickets,834.1,18-25,Australia,Desktop,Female,0
+C005_45,C005,Basketball Fantasy League Challenge,Football,830.99,Discount Voucher,192.45,<18,UK,Desktop,Male,0
+C005_46,C005,Basketball Fantasy League Challenge,Football,537.51,,0,36-45,Australia,Tablet,Male,0
+C005_47,C005,Basketball Fantasy League Challenge,Football,332.4,,0,18-25,USA,Mobile,Male,0
+C005_48,C005,Basketball Fantasy League Challenge,Football,537.8,,0,46-60,India,Mobile,Female,0
+C005_49,C005,Basketball Fantasy League Challenge,Football,133.72,,0,36-45,Germany,Tablet,Male,0
+C005_50,C005,Basketball Fantasy League Challenge,Football,777.01,,0,18-25,USA,Desktop,Male,0
+C005_51,C005,Basketball Fantasy League Challenge,Football,354.34,,0,46-60,UK,Tablet,Male,0
+C005_52,C005,Basketball Fantasy League Challenge,Football,289.09,,0,26-35,Germany,Mobile,Female,0
+C005_53,C005,Basketball Fantasy League Challenge,Football,840.21,Discount Voucher,541.09,18-25,India,Desktop,Male,0
+C005_54,C005,Basketball Fantasy League Challenge,Football,581.11,,0,36-45,USA,Tablet,Male,0
+C005_55,C005,Basketball Fantasy League Challenge,Football,351.85,,0,<18,Australia,Mobile,Male,0
+C005_56,C005,Basketball Fantasy League Challenge,Football,665.38,,0,26-35,USA,Tablet,Female,0
+C005_57,C005,Basketball Fantasy League Challenge,Football,848.25,,0,18-25,USA,Mobile,Male,0
+C005_58,C005,Basketball Fantasy League Challenge,Football,364.29,,0,36-45,India,Tablet,Female,0
+C005_59,C005,Basketball Fantasy League Challenge,Football,576.57,,0,36-45,India,Desktop,Female,0
+C005_60,C005,Basketball Fantasy League Challenge,Football,148.79,Fan Token,416.13,26-35,Germany,Desktop,Female,0
+C005_61,C005,Basketball Fantasy League Challenge,Football,280.61,,0,18-25,Australia,Desktop,Female,0
+C005_62,C005,Basketball Fantasy League Challenge,Football,372.19,,0,26-35,Brazil,Mobile,Female,0
+C005_63,C005,Basketball Fantasy League Challenge,Football,573.94,Discount Voucher,307.62,18-25,Brazil,Desktop,Male,0
+C005_64,C005,Basketball Fantasy League Challenge,Football,635.53,,0,36-45,USA,Desktop,Male,0
+C005_65,C005,Basketball Fantasy League Challenge,Football,140.16,,0,26-35,Germany,Mobile,Male,0
+C005_66,C005,Basketball Fantasy League Challenge,Football,743.65,Merchandise Pack,540.83,26-35,UK,Desktop,Male,0
+C005_67,C005,Basketball Fantasy League Challenge,Football,505.62,Discount Voucher,692.85,36-45,Australia,Mobile,Female,0
+C005_68,C005,Basketball Fantasy League Challenge,Football,519.52,Signed Jersey,229.82,18-25,USA,Tablet,Male,0
+C005_69,C005,Basketball Fantasy League Challenge,Football,227.94,,0,36-45,Australia,Desktop,Male,0
+C005_70,C005,Basketball Fantasy League Challenge,Football,700.49,,0,60+,UK,Mobile,Female,0
+C005_71,C005,Basketball Fantasy League Challenge,Football,334.59,Match Tickets,418.48,<18,India,Mobile,Female,0
+C005_72,C005,Basketball Fantasy League Challenge,Football,854.25,Match Tickets,615.68,26-35,Germany,Desktop,Male,0
+C005_73,C005,Basketball Fantasy League Challenge,Football,696.83,,0,26-35,India,Desktop,Female,0
+C005_74,C005,Basketball Fantasy League Challenge,Football,209.8,,0,18-25,India,Mobile,Male,0
+C005_75,C005,Basketball Fantasy League Challenge,Football,770.13,,0,<18,UK,Desktop,Male,0
+C005_76,C005,Basketball Fantasy League Challenge,Football,250.32,,0,26-35,USA,Tablet,Female,0
+C005_77,C005,Basketball Fantasy League Challenge,Football,505.32,Signed Jersey,628.92,18-25,Brazil,Desktop,Male,0
+C005_78,C005,Basketball Fantasy League Challenge,Football,852.2,,0,26-35,USA,Mobile,Female,0
+C005_79,C005,Basketball Fantasy League Challenge,Football,807,,0,26-35,UK,Mobile,Male,0
+C005_80,C005,Basketball Fantasy League Challenge,Football,417.1,Match Tickets,786.61,<18,UK,Tablet,Female,0
+C006_1,C006,Football Trivia Challenge,Cricket,856.16,Merchandise Pack,977.31,26-35,UK,Desktop,Male,0
+C006_2,C006,Football Trivia Challenge,Cricket,678.56,,0,<18,India,Mobile,Male,0
+C006_3,C006,Football Trivia Challenge,Cricket,534.85,,0,<18,USA,Tablet,Male,0
+C006_4,C006,Football Trivia Challenge,Cricket,509.25,,0,26-35,India,Desktop,Male,0
+C006_5,C006,Football Trivia Challenge,Cricket,294.41,Discount Voucher,300.02,26-35,India,Tablet,Female,0
+C006_6,C006,Football Trivia Challenge,Cricket,592.89,Discount Voucher,239.77,18-25,Brazil,Desktop,Male,0
+C006_7,C006,Football Trivia Challenge,Cricket,712.6,,0,26-35,UK,Tablet,Male,0
+C006_8,C006,Football Trivia Challenge,Cricket,256.44,,0,18-25,India,Desktop,Male,0
+C006_9,C006,Football Trivia Challenge,Cricket,608.59,Fan Token,934.81,<18,India,Tablet,Female,0
+C006_10,C006,Football Trivia Challenge,Cricket,674.34,Signed Jersey,379.89,36-45,Brazil,Desktop,Female,0
+C006_11,C006,Football Trivia Challenge,Cricket,207.13,,0,36-45,Germany,Tablet,Male,0
+C006_12,C006,Football Trivia Challenge,Cricket,596.81,,0,26-35,Brazil,Tablet,Female,0
+C006_13,C006,Football Trivia Challenge,Cricket,714.34,,0,<18,Brazil,Tablet,Female,0
+C006_14,C006,Football Trivia Challenge,Cricket,158.69,,0,18-25,USA,Desktop,Male,0
+C006_15,C006,Football Trivia Challenge,Cricket,463.72,,0,26-35,Australia,Tablet,Female,0
+C006_16,C006,Football Trivia Challenge,Cricket,442.19,Match Tickets,905.88,<18,India,Desktop,Female,0
+C006_17,C006,Football Trivia Challenge,Cricket,805.4,,0,36-45,India,Desktop,Female,0
+C006_18,C006,Football Trivia Challenge,Cricket,499.07,Match Tickets,309.62,<18,Australia,Tablet,Female,0
+C006_19,C006,Football Trivia Challenge,Cricket,682.2,,0,18-25,India,Tablet,Female,0
+C006_20,C006,Football Trivia Challenge,Cricket,783,,0,36-45,UK,Tablet,Female,0
+C006_21,C006,Football Trivia Challenge,Cricket,261.68,,0,<18,UK,Mobile,Female,0
+C006_22,C006,Football Trivia Challenge,Cricket,399.57,,0,18-25,USA,Mobile,Male,0
+C006_23,C006,Football Trivia Challenge,Cricket,213.68,Fan Token,581.06,36-45,UK,Desktop,Female,0
+C006_24,C006,Football Trivia Challenge,Cricket,644.52,,0,18-25,USA,Desktop,Male,0
+C006_25,C006,Football Trivia Challenge,Cricket,510.12,,0,60+,Brazil,Desktop,Male,0
+C006_26,C006,Football Trivia Challenge,Cricket,745.18,Discount Voucher,403.68,26-35,Germany,Tablet,Male,0
+C006_27,C006,Football Trivia Challenge,Cricket,91.64,Fan Token,524.02,18-25,Brazil,Desktop,Male,0
+C006_28,C006,Football Trivia Challenge,Cricket,277.97,,0,18-25,USA,Mobile,Male,0
+C006_29,C006,Football Trivia Challenge,Cricket,381.1,Discount Voucher,540.23,26-35,Australia,Desktop,Female,0
+C006_30,C006,Football Trivia Challenge,Cricket,593.9,Discount Voucher,660.42,36-45,Brazil,Tablet,Male,0
+C007_1,C007,Basketball Prediction Challenge,Basketball,691.12,,0,26-35,USA,Tablet,Female,0
+C007_2,C007,Basketball Prediction Challenge,Basketball,323.61,Match Tickets,799.75,26-35,India,Desktop,Female,0
+C007_3,C007,Basketball Prediction Challenge,Basketball,1289.61,,0,36-45,UK,Mobile,Male,0
+C007_4,C007,Basketball Prediction Challenge,Basketball,912.68,,0,26-35,Germany,Tablet,Female,0
+C007_5,C007,Basketball Prediction Challenge,Basketball,393.02,,0,36-45,Australia,Mobile,Female,0
+C007_6,C007,Basketball Prediction Challenge,Basketball,654.8,,0,36-45,Brazil,Mobile,Male,0
+C007_7,C007,Basketball Prediction Challenge,Basketball,572.98,,0,36-45,USA,Tablet,Male,0
+C007_8,C007,Basketball Prediction Challenge,Basketball,232.59,,0,36-45,USA,Desktop,Male,0
+C007_9,C007,Basketball Prediction Challenge,Basketball,1010.13,,0,18-25,Germany,Desktop,Female,0
+C007_10,C007,Basketball Prediction Challenge,Basketball,670.66,,0,18-25,India,Desktop,Female,0
+C007_11,C007,Basketball Prediction Challenge,Basketball,583.79,,0,36-45,Australia,Tablet,Male,0
+C007_12,C007,Basketball Prediction Challenge,Basketball,962.79,,0,18-25,India,Mobile,Male,0
+C007_13,C007,Basketball Prediction Challenge,Basketball,385.67,,0,36-45,UK,Tablet,Male,0
+C007_14,C007,Basketball Prediction Challenge,Basketball,631.13,,0,26-35,Germany,Mobile,Female,0
+C007_15,C007,Basketball Prediction Challenge,Basketball,802.36,,0,<18,Brazil,Desktop,Male,0
+C007_16,C007,Basketball Prediction Challenge,Basketball,249.37,Discount Voucher,385.63,36-45,UK,Tablet,Female,0
+C007_17,C007,Basketball Prediction Challenge,Basketball,1176.76,,0,18-25,Brazil,Tablet,Female,0
+C007_18,C007,Basketball Prediction Challenge,Basketball,544.94,,0,26-35,Brazil,Desktop,Male,0
+C007_19,C007,Basketball Prediction Challenge,Basketball,1194.23,,0,18-25,India,Mobile,Female,0
+C007_20,C007,Basketball Prediction Challenge,Basketball,138.36,,0,18-25,UK,Tablet,Male,0
+C007_21,C007,Basketball Prediction Challenge,Basketball,126.18,,0,26-35,USA,Mobile,Female,0
+C007_22,C007,Basketball Prediction Challenge,Basketball,582.64,Discount Voucher,938.94,36-45,Australia,Tablet,Male,0
+C007_23,C007,Basketball Prediction Challenge,Basketball,499.67,,0,18-25,India,Tablet,Female,0
+C007_24,C007,Basketball Prediction Challenge,Basketball,376.01,,0,26-35,USA,Mobile,Female,0
+C007_25,C007,Basketball Prediction Challenge,Basketball,484.27,,0,26-35,Brazil,Tablet,Male,0
+C007_26,C007,Basketball Prediction Challenge,Basketball,511.16,,0,<18,Germany,Desktop,Female,0
+C007_27,C007,Basketball Prediction Challenge,Basketball,1084.83,,0,26-35,Australia,Tablet,Female,0
+C007_28,C007,Basketball Prediction Challenge,Basketball,133.54,,0,<18,Germany,Tablet,Female,0
+C007_29,C007,Basketball Prediction Challenge,Basketball,605.39,,0,18-25,Brazil,Tablet,Male,0
+C007_30,C007,Basketball Prediction Challenge,Basketball,1040.7,,0,18-25,UK,Desktop,Female,0
+C008_1,C008,Football Fantasy League Challenge,Basketball,83.53,,0,26-35,Australia,Tablet,Male,0
+C008_2,C008,Football Fantasy League Challenge,Basketball,852.28,Match Tickets,247.5,18-25,UK,Tablet,Male,0
+C008_3,C008,Football Fantasy League Challenge,Basketball,597,Discount Voucher,650.39,<18,USA,Desktop,Male,0
+C008_4,C008,Football Fantasy League Challenge,Basketball,207.78,,0,<18,Germany,Tablet,Male,0
+C008_5,C008,Football Fantasy League Challenge,Basketball,647.08,,0,46-60,Australia,Desktop,Male,0
+C008_6,C008,Football Fantasy League Challenge,Basketball,157.21,Match Tickets,989.42,18-25,USA,Mobile,Male,0
+C008_7,C008,Football Fantasy League Challenge,Basketball,840.97,,0,26-35,Germany,Desktop,Male,0
+C008_8,C008,Football Fantasy League Challenge,Basketball,221.35,,0,36-45,Brazil,Desktop,Male,0
+C008_9,C008,Football Fantasy League Challenge,Basketball,259.96,,0,36-45,Germany,Mobile,Male,0
+C008_10,C008,Football Fantasy League Challenge,Basketball,229.43,Fan Token,742.37,18-25,Germany,Mobile,Male,0
+C008_11,C008,Football Fantasy League Challenge,Basketball,342.53,,0,46-60,Germany,Mobile,Male,0
+C008_12,C008,Football Fantasy League Challenge,Basketball,927.24,,0,<18,USA,Desktop,Male,0
+C008_13,C008,Football Fantasy League Challenge,Basketball,197.11,,0,26-35,Germany,Desktop,Female,0
+C008_14,C008,Football Fantasy League Challenge,Basketball,923.69,,0,<18,UK,Tablet,Male,0
+C008_15,C008,Football Fantasy League Challenge,Basketball,837.25,,0,36-45,UK,Tablet,Female,0
+C008_16,C008,Football Fantasy League Challenge,Basketball,218.6,,0,18-25,Germany,Desktop,Female,0
+C008_17,C008,Football Fantasy League Challenge,Basketball,280.81,Match Tickets,282.14,<18,USA,Tablet,Male,0
+C008_18,C008,Football Fantasy League Challenge,Basketball,310.37,,0,26-35,USA,Mobile,Female,0
+C008_19,C008,Football Fantasy League Challenge,Basketball,503.29,,0,18-25,UK,Desktop,Female,0
+C008_20,C008,Football Fantasy League Challenge,Basketball,332.35,,0,26-35,UK,Desktop,Male,0
+C008_21,C008,Football Fantasy League Challenge,Basketball,230.07,,0,26-35,Germany,Tablet,Male,0
+C008_22,C008,Football Fantasy League Challenge,Basketball,888.3,,0,36-45,UK,Tablet,Female,0
+C008_23,C008,Football Fantasy League Challenge,Basketball,317.48,,0,<18,Brazil,Mobile,Female,0
+C008_24,C008,Football Fantasy League Challenge,Basketball,225.71,,0,26-35,USA,Mobile,Male,0
+C008_25,C008,Football Fantasy League Challenge,Basketball,767.13,Merchandise Pack,200.63,<18,Australia,Tablet,Male,0
+C008_26,C008,Football Fantasy League Challenge,Basketball,383.89,Fan Token,343.96,46-60,UK,Desktop,Male,0
+C008_27,C008,Football Fantasy League Challenge,Basketball,718.5,,0,18-25,India,Tablet,Female,0
+C008_28,C008,Football Fantasy League Challenge,Basketball,219.41,,0,46-60,UK,Tablet,Male,0
+C008_29,C008,Football Fantasy League Challenge,Basketball,738.21,,0,60+,Brazil,Mobile,Female,0
+C008_30,C008,Football Fantasy League Challenge,Basketball,92.74,Signed Jersey,491.45,36-45,USA,Mobile,Male,0
+C008_31,C008,Football Fantasy League Challenge,Basketball,484.06,Signed Jersey,692.89,26-35,Australia,Mobile,Female,0
+C008_32,C008,Football Fantasy League Challenge,Basketball,662.92,Discount Voucher,302.32,60+,India,Mobile,Female,0
+C008_33,C008,Football Fantasy League Challenge,Basketball,231.53,Fan Token,826.12,<18,India,Desktop,Male,0
+C008_34,C008,Football Fantasy League Challenge,Basketball,756.79,,0,<18,India,Desktop,Female,0
+C008_35,C008,Football Fantasy League Challenge,Basketball,562.42,Match Tickets,507.02,46-60,Germany,Desktop,Male,0
+C008_36,C008,Football Fantasy League Challenge,Basketball,150.58,,0,26-35,Australia,Mobile,Female,0
+C008_37,C008,Football Fantasy League Challenge,Basketball,249.95,,0,26-35,Australia,Mobile,Male,0
+C008_38,C008,Football Fantasy League Challenge,Basketball,375.97,,0,<18,Brazil,Tablet,Female,0
+C008_39,C008,Football Fantasy League Challenge,Basketball,481.15,Fan Token,847.04,36-45,UK,Mobile,Female,0
+C008_40,C008,Football Fantasy League Challenge,Basketball,720.11,,0,36-45,USA,Tablet,Male,0
+C008_41,C008,Football Fantasy League Challenge,Basketball,503.13,,0,18-25,India,Desktop,Male,0
+C008_42,C008,Football Fantasy League Challenge,Basketball,323.14,Fan Token,175.73,18-25,USA,Tablet,Female,0
+C008_43,C008,Football Fantasy League Challenge,Basketball,520.57,,0,18-25,Australia,Desktop,Male,0
+C008_44,C008,Football Fantasy League Challenge,Basketball,754.53,,0,<18,India,Mobile,Female,0
+C008_45,C008,Football Fantasy League Challenge,Basketball,653.22,Match Tickets,395.9,18-25,Brazil,Desktop,Male,0
+C008_46,C008,Football Fantasy League Challenge,Basketball,820.61,,0,18-25,UK,Mobile,Male,0
+C008_47,C008,Football Fantasy League Challenge,Basketball,449.97,,0,60+,USA,Desktop,Male,0
+C008_48,C008,Football Fantasy League Challenge,Basketball,650.8,Merchandise Pack,674.22,<18,Australia,Tablet,Female,0
+C008_49,C008,Football Fantasy League Challenge,Basketball,251.24,,0,36-45,Brazil,Tablet,Female,0
+C008_50,C008,Football Fantasy League Challenge,Basketball,494.56,Discount Voucher,568.02,36-45,USA,Mobile,Male,0
+C008_51,C008,Football Fantasy League Challenge,Basketball,872.63,,0,26-35,India,Desktop,Male,0
+C008_52,C008,Football Fantasy League Challenge,Basketball,124.41,,0,<18,UK,Tablet,Female,0
+C008_53,C008,Football Fantasy League Challenge,Basketball,651.93,,0,26-35,India,Tablet,Female,0
+C008_54,C008,Football Fantasy League Challenge,Basketball,344.14,Fan Token,115.17,<18,USA,Desktop,Female,0
+C008_55,C008,Football Fantasy League Challenge,Basketball,816.57,,0,26-35,Australia,Desktop,Female,0
+C008_56,C008,Football Fantasy League Challenge,Basketball,800.9,,0,36-45,India,Desktop,Female,0
+C008_57,C008,Football Fantasy League Challenge,Basketball,423.15,,0,18-25,Brazil,Desktop,Female,0
+C008_58,C008,Football Fantasy League Challenge,Basketball,773.27,,0,46-60,UK,Tablet,Female,0
+C008_59,C008,Football Fantasy League Challenge,Basketball,211.66,,0,18-25,Germany,Desktop,Male,0
+C008_60,C008,Football Fantasy League Challenge,Basketball,158.01,,0,26-35,USA,Mobile,Male,0
+C008_61,C008,Football Fantasy League Challenge,Basketball,593.12,,0,18-25,Brazil,Tablet,Female,0
+C008_62,C008,Football Fantasy League Challenge,Basketball,222,,0,18-25,India,Mobile,Male,0
+C008_63,C008,Football Fantasy League Challenge,Basketball,689.41,,0,18-25,Brazil,Tablet,Male,0
+C008_64,C008,Football Fantasy League Challenge,Basketball,253.34,,0,18-25,Germany,Tablet,Female,0
+C008_65,C008,Football Fantasy League Challenge,Basketball,725.93,,0,<18,Brazil,Mobile,Female,0
+C008_66,C008,Football Fantasy League Challenge,Basketball,311.02,,0,26-35,India,Desktop,Female,0
+C008_67,C008,Football Fantasy League Challenge,Basketball,574.86,Match Tickets,610.27,26-35,USA,Mobile,Female,0
+C008_68,C008,Football Fantasy League Challenge,Basketball,307.63,,0,36-45,Germany,Mobile,Male,0
+C008_69,C008,Football Fantasy League Challenge,Basketball,601.36,Match Tickets,313.4,60+,Brazil,Tablet,Male,0
+C008_70,C008,Football Fantasy League Challenge,Basketball,871.5,,0,18-25,UK,Tablet,Male,0
+C008_71,C008,Football Fantasy League Challenge,Basketball,901.88,Fan Token,593.78,36-45,Australia,Tablet,Male,0
+C008_72,C008,Football Fantasy League Challenge,Basketball,784.9,,0,26-35,USA,Mobile,Male,0
+C008_73,C008,Football Fantasy League Challenge,Basketball,128.12,,0,18-25,Brazil,Desktop,Female,0
+C008_74,C008,Football Fantasy League Challenge,Basketball,82.88,,0,26-35,Brazil,Desktop,Female,0
+C008_75,C008,Football Fantasy League Challenge,Basketball,211.49,Discount Voucher,789.56,18-25,Germany,Desktop,Female,0
+C008_76,C008,Football Fantasy League Challenge,Basketball,498.28,,0,26-35,Brazil,Tablet,Female,0
+C008_77,C008,Football Fantasy League Challenge,Basketball,939.36,,0,26-35,Germany,Desktop,Female,0
+C008_78,C008,Football Fantasy League Challenge,Basketball,813.66,,0,18-25,Germany,Desktop,Male,0
+C008_79,C008,Football Fantasy League Challenge,Basketball,242.51,Discount Voucher,676.02,36-45,USA,Tablet,Male,0
+C008_80,C008,Football Fantasy League Challenge,Basketball,910.28,,0,<18,UK,Mobile,Female,0
+C008_81,C008,Football Fantasy League Challenge,Basketball,868.92,Discount Voucher,930.99,26-35,Germany,Desktop,Male,0
+C008_82,C008,Football Fantasy League Challenge,Basketball,356.26,Discount Voucher,747.25,18-25,Germany,Desktop,Male,0
+C008_83,C008,Football Fantasy League Challenge,Basketball,589.73,Signed Jersey,252.86,<18,USA,Tablet,Male,0
+C008_84,C008,Football Fantasy League Challenge,Basketball,518.8,Match Tickets,270.44,36-45,India,Tablet,Male,0
+C008_85,C008,Football Fantasy League Challenge,Basketball,95.97,,0,<18,Germany,Mobile,Female,0
+C008_86,C008,Football Fantasy League Challenge,Basketball,157.21,Signed Jersey,747.06,36-45,Brazil,Mobile,Male,0
+C008_87,C008,Football Fantasy League Challenge,Basketball,735.46,,0,18-25,USA,Desktop,Female,0
+C008_88,C008,Football Fantasy League Challenge,Basketball,597.32,,0,36-45,Brazil,Mobile,Male,0
+C008_89,C008,Football Fantasy League Challenge,Basketball,461.44,,0,46-60,USA,Desktop,Male,0
+C008_90,C008,Football Fantasy League Challenge,Basketball,787.65,,0,<18,India,Mobile,Male,0
+C008_91,C008,Football Fantasy League Challenge,Basketball,793.79,,0,36-45,UK,Mobile,Male,0
+C008_92,C008,Football Fantasy League Challenge,Basketball,509.75,Fan Token,207.2,26-35,Germany,Tablet,Female,0
+C008_93,C008,Football Fantasy League Challenge,Basketball,390.03,Discount Voucher,699.72,26-35,Germany,Desktop,Male,0
+C008_94,C008,Football Fantasy League Challenge,Basketball,119.08,,0,36-45,Germany,Mobile,Male,0
+C008_95,C008,Football Fantasy League Challenge,Basketball,604.43,,0,26-35,Australia,Desktop,Female,0
+C008_96,C008,Football Fantasy League Challenge,Basketball,114.23,,0,18-25,Australia,Desktop,Male,0
+C008_97,C008,Football Fantasy League Challenge,Basketball,275.15,,0,36-45,Australia,Desktop,Male,0
+C008_98,C008,Football Fantasy League Challenge,Basketball,956.81,,0,<18,Brazil,Desktop,Male,0
+C008_99,C008,Football Fantasy League Challenge,Basketball,125.54,,0,<18,Brazil,Tablet,Male,0
+C008_100,C008,Football Fantasy League Challenge,Basketball,170.94,,0,36-45,India,Mobile,Female,0
+C008_101,C008,Football Fantasy League Challenge,Basketball,583.59,Discount Voucher,899.45,18-25,Brazil,Tablet,Male,0
+C008_102,C008,Football Fantasy League Challenge,Basketball,536.57,Fan Token,488.68,18-25,Australia,Tablet,Male,0
+C008_103,C008,Football Fantasy League Challenge,Basketball,310.05,,0,18-25,India,Tablet,Female,0
+C008_104,C008,Football Fantasy League Challenge,Basketball,691.03,Signed Jersey,575.76,<18,Brazil,Tablet,Female,0
+C008_105,C008,Football Fantasy League Challenge,Basketball,94.68,Signed Jersey,132.55,18-25,Brazil,Desktop,Female,0
+C008_106,C008,Football Fantasy League Challenge,Basketball,861.97,Merchandise Pack,815.37,18-25,India,Desktop,Female,0
+C008_107,C008,Football Fantasy League Challenge,Basketball,287.92,Signed Jersey,134.76,26-35,Brazil,Mobile,Male,0
+C008_108,C008,Football Fantasy League Challenge,Basketball,706.22,Merchandise Pack,901.43,36-45,Australia,Tablet,Male,0
+C008_109,C008,Football Fantasy League Challenge,Basketball,851.63,,0,<18,Germany,Tablet,Female,0
+C008_110,C008,Football Fantasy League Challenge,Basketball,215.53,,0,46-60,India,Mobile,Female,0
+C008_111,C008,Football Fantasy League Challenge,Basketball,482.12,,0,26-35,Australia,Mobile,Male,0
+C008_112,C008,Football Fantasy League Challenge,Basketball,780.22,,0,46-60,USA,Desktop,Female,0
+C008_113,C008,Football Fantasy League Challenge,Basketball,497.79,,0,18-25,USA,Tablet,Female,0
+C008_114,C008,Football Fantasy League Challenge,Basketball,750.16,Discount Voucher,444.21,36-45,Australia,Mobile,Female,0
+C008_115,C008,Football Fantasy League Challenge,Basketball,435.75,,0,36-45,Brazil,Mobile,Male,0
+C008_116,C008,Football Fantasy League Challenge,Basketball,620.42,,0,46-60,USA,Mobile,Female,0
+C008_117,C008,Football Fantasy League Challenge,Basketball,172.23,,0,36-45,Germany,Mobile,Male,0
+C008_118,C008,Football Fantasy League Challenge,Basketball,194.85,Match Tickets,919.42,<18,India,Tablet,Male,0
+C008_119,C008,Football Fantasy League Challenge,Basketball,914.96,,0,18-25,UK,Desktop,Male,0
+C008_120,C008,Football Fantasy League Challenge,Basketball,256.09,,0,36-45,USA,Desktop,Female,0
+C008_121,C008,Football Fantasy League Challenge,Basketball,967.64,,0,36-45,UK,Tablet,Male,0
+C008_122,C008,Football Fantasy League Challenge,Basketball,834.66,,0,18-25,UK,Desktop,Female,0
+C008_123,C008,Football Fantasy League Challenge,Basketball,846.3,Fan Token,112.96,26-35,USA,Mobile,Female,0
+C008_124,C008,Football Fantasy League Challenge,Basketball,480.51,Discount Voucher,734.27,26-35,India,Tablet,Male,0
+C008_125,C008,Football Fantasy League Challenge,Basketball,537.86,,0,26-35,Australia,Desktop,Female,0
+C008_126,C008,Football Fantasy League Challenge,Basketball,452.23,Signed Jersey,379.16,46-60,Australia,Tablet,Female,0
+C008_127,C008,Football Fantasy League Challenge,Basketball,452.88,,0,18-25,USA,Desktop,Female,0
+C008_128,C008,Football Fantasy League Challenge,Basketball,438.66,,0,18-25,Brazil,Desktop,Female,0
+C008_129,C008,Football Fantasy League Challenge,Basketball,788.78,Signed Jersey,234.07,18-25,Australia,Mobile,Male,0
+C008_130,C008,Football Fantasy League Challenge,Basketball,901.88,,0,36-45,Germany,Mobile,Male,0
+C008_131,C008,Football Fantasy League Challenge,Basketball,864.07,,0,36-45,USA,Mobile,Female,0
+C008_132,C008,Football Fantasy League Challenge,Basketball,646.76,,0,26-35,Germany,Desktop,Female,0
+C008_133,C008,Football Fantasy League Challenge,Basketball,496.5,Fan Token,695.23,18-25,Australia,Mobile,Male,0
+C008_134,C008,Football Fantasy League Challenge,Basketball,215.69,Merchandise Pack,241.73,36-45,UK,Tablet,Female,0
+C008_135,C008,Football Fantasy League Challenge,Basketball,803.97,,0,26-35,UK,Mobile,Male,0
+C008_136,C008,Football Fantasy League Challenge,Basketball,386.47,,0,<18,Brazil,Desktop,Female,0
+C008_137,C008,Football Fantasy League Challenge,Basketball,522.84,,0,<18,USA,Desktop,Female,0
+C008_138,C008,Football Fantasy League Challenge,Basketball,683.27,,0,36-45,Brazil,Mobile,Female,0
+C008_139,C008,Football Fantasy League Challenge,Basketball,176.92,,0,26-35,UK,Mobile,Female,0
+C008_140,C008,Football Fantasy League Challenge,Basketball,885.24,,0,46-60,USA,Mobile,Male,0
+C008_141,C008,Football Fantasy League Challenge,Basketball,570.34,Discount Voucher,870.86,18-25,USA,Tablet,Female,0
+C008_142,C008,Football Fantasy League Challenge,Basketball,814.47,Discount Voucher,666.2,36-45,UK,Tablet,Female,0
+C008_143,C008,Football Fantasy League Challenge,Basketball,432.03,,0,26-35,Germany,Mobile,Female,0
+C008_144,C008,Football Fantasy League Challenge,Basketball,913.99,,0,46-60,India,Desktop,Female,0
+C008_145,C008,Football Fantasy League Challenge,Basketball,748.22,Match Tickets,597.45,60+,USA,Desktop,Male,0
+C008_146,C008,Football Fantasy League Challenge,Basketball,389.38,,0,26-35,Germany,Mobile,Female,0
+C008_147,C008,Football Fantasy League Challenge,Basketball,144.28,,0,<18,UK,Mobile,Female,0
+C008_148,C008,Football Fantasy League Challenge,Basketball,499.25,,0,36-45,UK,Desktop,Male,0
+C008_149,C008,Football Fantasy League Challenge,Basketball,89.99,,0,26-35,India,Desktop,Male,0
+C008_150,C008,Football Fantasy League Challenge,Basketball,752.43,Signed Jersey,736.23,26-35,UK,Tablet,Male,0
+C008_151,C008,Football Fantasy League Challenge,Basketball,557.25,Signed Jersey,325.3,18-25,UK,Tablet,Male,0
+C008_152,C008,Football Fantasy League Challenge,Basketball,484.38,Discount Voucher,804.4,<18,UK,Desktop,Female,0
+C008_153,C008,Football Fantasy League Challenge,Basketball,777.95,,0,18-25,UK,Desktop,Female,0
+C008_154,C008,Football Fantasy League Challenge,Basketball,869.08,,0,18-25,Australia,Tablet,Male,0
+C008_155,C008,Football Fantasy League Challenge,Basketball,636.26,,0,<18,Australia,Desktop,Male,0
+C008_156,C008,Football Fantasy League Challenge,Basketball,404.73,,0,18-25,Germany,Mobile,Male,0
+C008_157,C008,Football Fantasy League Challenge,Basketball,252.53,,0,26-35,USA,Mobile,Male,0
+C008_158,C008,Football Fantasy League Challenge,Basketball,297.12,Discount Voucher,264.35,36-45,UK,Desktop,Male,0
+C008_159,C008,Football Fantasy League Challenge,Basketball,449.48,Signed Jersey,603.24,46-60,Brazil,Mobile,Female,0
+C008_160,C008,Football Fantasy League Challenge,Basketball,821.58,,0,<18,Germany,Tablet,Female,0
+C008_161,C008,Football Fantasy League Challenge,Basketball,363.04,,0,60+,Brazil,Desktop,Female,246.74
+C008_162,C008,Football Fantasy League Challenge,Basketball,749.52,Signed Jersey,354.95,26-35,Brazil,Tablet,Female,578.26
+C008_163,C008,Football Fantasy League Challenge,Basketball,343.98,,0,18-25,Brazil,Mobile,Female,246.75
+C008_164,C008,Football Fantasy League Challenge,Basketball,574.54,,0,26-35,India,Tablet,Male,469.29
+C008_165,C008,Football Fantasy League Challenge,Basketball,695.55,Match Tickets,235.5,26-35,UK,Tablet,Female,798.59
+C008_166,C008,Football Fantasy League Challenge,Basketball,535.76,,0,18-25,UK,Desktop,Female,181.16
+C008_167,C008,Football Fantasy League Challenge,Basketball,179.34,,0,26-35,USA,Mobile,Male,935.62
+C008_168,C008,Football Fantasy League Challenge,Basketball,438.34,,0,18-25,Australia,Desktop,Female,909.63
+C008_169,C008,Football Fantasy League Challenge,Basketball,627.69,,0,<18,Germany,Mobile,Female,286.6
+C008_170,C008,Football Fantasy League Challenge,Basketball,537.05,,0,18-25,Brazil,Desktop,Female,562.7
+C008_171,C008,Football Fantasy League Challenge,Basketball,939.04,,0,18-25,Brazil,Desktop,Male,230.59
+C008_172,C008,Football Fantasy League Challenge,Basketball,831.76,,0,<18,Brazil,Desktop,Female,899.11
+C008_173,C008,Football Fantasy League Challenge,Basketball,323.14,Merchandise Pack,771.93,18-25,Australia,Mobile,Male,313.01
+C008_174,C008,Football Fantasy League Challenge,Basketball,583.59,Discount Voucher,760.9,18-25,Australia,Desktop,Male,348.62
+C008_175,C008,Football Fantasy League Challenge,Basketball,488.75,Merchandise Pack,875.72,60+,USA,Mobile,Female,844.38
+C008_176,C008,Football Fantasy League Challenge,Basketball,662.43,,0,<18,Australia,Mobile,Female,609.68
+C008_177,C008,Football Fantasy League Challenge,Basketball,915.77,,0,46-60,India,Desktop,Male,673.9
+C008_178,C008,Football Fantasy League Challenge,Basketball,898.81,Discount Voucher,533.22,<18,Australia,Mobile,Female,125.22
+C008_179,C008,Football Fantasy League Challenge,Basketball,180.31,Signed Jersey,483.29,26-35,Brazil,Desktop,Female,283.1
+C008_180,C008,Football Fantasy League Challenge,Basketball,224.9,,0,36-45,Brazil,Desktop,Female,663.51
+C008_181,C008,Football Fantasy League Challenge,Basketball,563.39,Fan Token,280.03,36-45,Australia,Mobile,Male,671.73
+C008_182,C008,Football Fantasy League Challenge,Basketball,194.85,,0,26-35,USA,Desktop,Female,733.86
+C008_183,C008,Football Fantasy League Challenge,Basketball,641.27,,0,<18,Germany,Tablet,Female,955.17
+C008_184,C008,Football Fantasy League Challenge,Basketball,209.72,,0,36-45,Brazil,Mobile,Female,389.52
+C008_185,C008,Football Fantasy League Challenge,Basketball,163.51,,0,18-25,UK,Mobile,Female,844.96
+C008_186,C008,Football Fantasy League Challenge,Basketball,334.29,,0,36-45,UK,Mobile,Male,173.39
+C008_187,C008,Football Fantasy League Challenge,Basketball,930.64,Signed Jersey,789.52,18-25,Germany,Desktop,Female,737.87
+C008_188,C008,Football Fantasy League Challenge,Basketball,519.12,,0,36-45,UK,Mobile,Female,452.38
+C008_189,C008,Football Fantasy League Challenge,Basketball,672.61,,0,<18,Brazil,Tablet,Male,590.17
+C008_190,C008,Football Fantasy League Challenge,Basketball,390.67,,0,26-35,Germany,Desktop,Male,842.99
+C008_191,C008,Football Fantasy League Challenge,Basketball,198.89,Merchandise Pack,476.69,36-45,USA,Tablet,Female,193.93
+C008_192,C008,Football Fantasy League Challenge,Basketball,819.31,Match Tickets,906.92,18-25,Germany,Mobile,Male,701.51
+C008_193,C008,Football Fantasy League Challenge,Basketball,888.79,Merchandise Pack,436.6,26-35,UK,Mobile,Male,120.39
+C008_194,C008,Football Fantasy League Challenge,Basketball,533.02,Discount Voucher,497.18,<18,UK,Desktop,Male,569.99
+C008_195,C008,Football Fantasy League Challenge,Basketball,576.96,Match Tickets,764.03,18-25,Germany,Tablet,Female,166.01
+C008_196,C008,Football Fantasy League Challenge,Basketball,179.99,,0,36-45,Australia,Mobile,Male,369.77
+C008_197,C008,Football Fantasy League Challenge,Basketball,674.23,Match Tickets,453.02,26-35,India,Mobile,Male,927.62
+C008_198,C008,Football Fantasy League Challenge,Basketball,503.61,Signed Jersey,481.67,<18,UK,Mobile,Female,690.34
+C008_199,C008,Football Fantasy League Challenge,Basketball,303.91,,0,26-35,USA,Mobile,Female,241.54
+C008_200,C008,Football Fantasy League Challenge,Basketball,896.71,,0,26-35,Germany,Tablet,Male,708.12
+C009_1,C009,Basketball Prediction Challenge,Cricket,1212.94,,0,36-45,Brazil,Mobile,Female,542.31
+C009_2,C009,Basketball Prediction Challenge,Cricket,976.21,Discount Voucher,399.84,36-45,Australia,Mobile,Female,574.35
+C009_3,C009,Basketball Prediction Challenge,Cricket,238.88,Merchandise Pack,843.25,60+,Australia,Desktop,Female,186.39
+C009_4,C009,Basketball Prediction Challenge,Cricket,310.83,,0,<18,UK,Tablet,Male,196.49
+C009_5,C009,Basketball Prediction Challenge,Cricket,234.14,Signed Jersey,235.67,18-25,Germany,Tablet,Female,315.39
+C009_6,C009,Basketball Prediction Challenge,Cricket,1002.49,,0,26-35,Brazil,Desktop,Female,435.41
+C009_7,C009,Basketball Prediction Challenge,Cricket,205.5,,0,60+,Brazil,Desktop,Female,116.59
+C009_8,C009,Basketball Prediction Challenge,Cricket,917.19,,0,36-45,Germany,Mobile,Female,238.8
+C009_9,C009,Basketball Prediction Challenge,Cricket,727.42,Discount Voucher,906.88,<18,Australia,Desktop,Male,794.72
+C009_10,C009,Basketball Prediction Challenge,Cricket,826.08,,0,18-25,India,Mobile,Female,202.67
+C009_11,C009,Basketball Prediction Challenge,Cricket,618.86,,0,26-35,Australia,Tablet,Female,846.84
+C009_12,C009,Basketball Prediction Challenge,Cricket,304.58,,0,<18,Germany,Mobile,Male,912.62
+C009_13,C009,Basketball Prediction Challenge,Cricket,341.2,,0,36-45,USA,Tablet,Male,529.92
+C009_14,C009,Basketball Prediction Challenge,Cricket,567.38,Signed Jersey,829.93,36-45,Australia,Tablet,Male,823.87
+C009_15,C009,Basketball Prediction Challenge,Cricket,152.51,,0,18-25,India,Tablet,Male,497.05
+C009_16,C009,Basketball Prediction Challenge,Cricket,470.87,,0,18-25,India,Mobile,Female,644.26
+C009_17,C009,Basketball Prediction Challenge,Cricket,476.69,,0,18-25,Brazil,Desktop,Female,586.14
+C009_18,C009,Basketball Prediction Challenge,Cricket,1118.16,,0,18-25,Australia,Mobile,Female,714.65
+C009_19,C009,Basketball Prediction Challenge,Cricket,754.35,,0,<18,UK,Desktop,Female,312.33
+C009_20,C009,Basketball Prediction Challenge,Cricket,254.61,,0,18-25,USA,Mobile,Female,118.46
+C009_21,C009,Basketball Prediction Challenge,Cricket,302.43,,0,26-35,UK,Desktop,Male,874.96
+C009_22,C009,Basketball Prediction Challenge,Cricket,752.41,Merchandise Pack,317.49,26-35,UK,Mobile,Female,847.94
+C009_23,C009,Basketball Prediction Challenge,Cricket,185.89,,0,36-45,UK,Mobile,Female,768.09
+C009_24,C009,Basketball Prediction Challenge,Cricket,1007.88,,0,46-60,Australia,Tablet,Female,906.91
+C009_25,C009,Basketball Prediction Challenge,Cricket,492.85,Fan Token,945.38,26-35,USA,Mobile,Female,495.68
+C009_26,C009,Basketball Prediction Challenge,Cricket,679.17,,0,46-60,USA,Tablet,Male,184.96
+C009_27,C009,Basketball Prediction Challenge,Cricket,435.12,,0,18-25,Germany,Desktop,Male,376.05
+C009_28,C009,Basketball Prediction Challenge,Cricket,196.66,,0,<18,UK,Mobile,Male,451.14
+C009_29,C009,Basketball Prediction Challenge,Cricket,1069.7,,0,26-35,Germany,Desktop,Male,841.93
+C009_30,C009,Basketball Prediction Challenge,Cricket,634.8,,0,18-25,UK,Desktop,Male,398.91
+C009_31,C009,Basketball Prediction Challenge,Cricket,928.61,,0,18-25,Germany,Mobile,Female,131.1
+C009_32,C009,Basketball Prediction Challenge,Cricket,795.27,Merchandise Pack,763.84,36-45,Australia,Mobile,Female,499.7
+C009_33,C009,Basketball Prediction Challenge,Cricket,620.36,,0,26-35,Germany,Tablet,Female,964.92
+C009_34,C009,Basketball Prediction Challenge,Cricket,265.38,Signed Jersey,792.42,60+,UK,Desktop,Female,969.59
+C009_35,C009,Basketball Prediction Challenge,Cricket,1032.22,,0,26-35,UK,Mobile,Male,667.89
+C009_36,C009,Basketball Prediction Challenge,Cricket,416.59,Match Tickets,701.09,46-60,USA,Desktop,Male,616.52
+C009_37,C009,Basketball Prediction Challenge,Cricket,723.33,,0,36-45,Germany,Desktop,Male,544.9
+C009_38,C009,Basketball Prediction Challenge,Cricket,730.22,Signed Jersey,223.34,46-60,Brazil,Mobile,Female,259.26
+C009_39,C009,Basketball Prediction Challenge,Cricket,1102.66,,0,18-25,UK,Desktop,Male,868.85
+C009_40,C009,Basketball Prediction Challenge,Cricket,736.47,,0,36-45,Germany,Mobile,Male,630.15
+C009_41,C009,Basketball Prediction Challenge,Cricket,1034.37,Signed Jersey,735.11,26-35,USA,Desktop,Female,688.98
+C009_42,C009,Basketball Prediction Challenge,Cricket,205.07,,0,26-35,Australia,Desktop,Male,699.74
+C009_43,C009,Basketball Prediction Challenge,Cricket,510.08,,0,46-60,Brazil,Mobile,Female,444.47
+C009_44,C009,Basketball Prediction Challenge,Cricket,291.23,,0,18-25,USA,Tablet,Male,763.35
+C009_45,C009,Basketball Prediction Challenge,Cricket,751.12,,0,26-35,Australia,Mobile,Female,424.17
+C009_46,C009,Basketball Prediction Challenge,Cricket,1263.99,Discount Voucher,190.36,26-35,Australia,Tablet,Male,951.26
+C009_47,C009,Basketball Prediction Challenge,Cricket,204.2,,0,<18,Brazil,Mobile,Female,135.19
+C009_48,C009,Basketball Prediction Challenge,Cricket,627.26,Match Tickets,960.32,26-35,India,Desktop,Male,732.65
+C009_49,C009,Basketball Prediction Challenge,Cricket,1268.09,,0,36-45,India,Mobile,Female,672.29
+C009_50,C009,Basketball Prediction Challenge,Cricket,135.7,,0,<18,Brazil,Mobile,Male,442.4
+C010_1,C010,Football Prediction Challenge,Cricket,87.29,Discount Voucher,246.74,36-45,UK,Desktop,Female,123.96
+C010_2,C010,Football Prediction Challenge,Cricket,152.8,Fan Token,578.26,26-35,Australia,Mobile,Female,652.18
+C010_3,C010,Football Prediction Challenge,Cricket,383.5,,0,36-45,Germany,Desktop,Male,465.43
+C010_4,C010,Football Prediction Challenge,Cricket,390.4,Discount Voucher,246.75,26-35,Germany,Mobile,Female,780.87
+C010_5,C010,Football Prediction Challenge,Cricket,161.62,Match Tickets,469.29,<18,India,Mobile,Male,873.4
+C010_6,C010,Football Prediction Challenge,Cricket,178.41,Match Tickets,798.59,18-25,USA,Tablet,Male,136.92
+C010_7,C010,Football Prediction Challenge,Cricket,91.63,,0,36-45,UK,Tablet,Male,418.5
+C010_8,C010,Football Prediction Challenge,Cricket,83.73,,0,60+,Australia,Desktop,Female,835.79
+C010_9,C010,Football Prediction Challenge,Cricket,310.23,Match Tickets,181.16,18-25,UK,Tablet,Female,432.2
+C010_10,C010,Football Prediction Challenge,Cricket,303.19,,0,26-35,Australia,Mobile,Male,110.26
+C010_11,C010,Football Prediction Challenge,Cricket,404.92,Fan Token,935.62,26-35,USA,Tablet,Male,582.47
+C010_12,C010,Football Prediction Challenge,Cricket,142.13,Signed Jersey,909.63,18-25,India,Tablet,Male,729.2
+C010_13,C010,Football Prediction Challenge,Cricket,78.04,,0,46-60,Brazil,Mobile,Male,800.32
+C010_14,C010,Football Prediction Challenge,Cricket,220.53,,0,<18,Brazil,Desktop,Female,327.46
+C010_15,C010,Football Prediction Challenge,Cricket,230.56,,0,26-35,Brazil,Tablet,Male,515.09
+C010_16,C010,Football Prediction Challenge,Cricket,340.04,,0,<18,India,Desktop,Male,715.49
+C010_17,C010,Football Prediction Challenge,Cricket,375.32,,0,36-45,Brazil,Mobile,Male,104.18
+C010_18,C010,Football Prediction Challenge,Cricket,122.5,Signed Jersey,286.6,26-35,USA,Tablet,Female,514.5
+C010_19,C010,Football Prediction Challenge,Cricket,158.85,,0,36-45,Brazil,Desktop,Female,586.35
+C010_20,C010,Football Prediction Challenge,Cricket,237.32,,0,18-25,Brazil,Tablet,Male,316.11
+C010_21,C010,Football Prediction Challenge,Cricket,286.26,,0,26-35,India,Tablet,Female,350.31
+C010_22,C010,Football Prediction Challenge,Cricket,156.65,,0,18-25,India,Mobile,Male,371.12
+C010_23,C010,Football Prediction Challenge,Cricket,66.58,,0,18-25,Australia,Desktop,Female,329.37
+C010_24,C010,Football Prediction Challenge,Cricket,345.02,Discount Voucher,562.7,18-25,Germany,Mobile,Female,542.73
+C010_25,C010,Football Prediction Challenge,Cricket,230.77,,0,46-60,Germany,Tablet,Female,620.04
+C010_26,C010,Football Prediction Challenge,Cricket,424.62,Fan Token,230.59,18-25,India,Desktop,Male,624.78
+C010_27,C010,Football Prediction Challenge,Cricket,227.5,Discount Voucher,899.11,26-35,Germany,Tablet,Male,512.65
+C010_28,C010,Football Prediction Challenge,Cricket,356.26,Signed Jersey,313.01,46-60,USA,Mobile,Female,333.38
+C010_29,C010,Football Prediction Challenge,Cricket,322.4,,0,36-45,Germany,Tablet,Female,222.28
+C010_30,C010,Football Prediction Challenge,Cricket,253.89,Match Tickets,348.62,18-25,USA,Tablet,Male,452.56
+C010_31,C010,Football Prediction Challenge,Cricket,203.88,Signed Jersey,844.38,<18,India,Desktop,Male,783.67
+C010_32,C010,Football Prediction Challenge,Cricket,366.5,,0,18-25,Germany,Desktop,Female,396.25
+C010_33,C010,Football Prediction Challenge,Cricket,257.31,,0,36-45,Germany,Tablet,Female,684.64
+C010_34,C010,Football Prediction Challenge,Cricket,157.43,,0,18-25,India,Desktop,Male,124.44
+C010_35,C010,Football Prediction Challenge,Cricket,181.97,,0,18-25,USA,Tablet,Female,795.45
+C010_36,C010,Football Prediction Challenge,Cricket,95.25,Merchandise Pack,609.68,18-25,USA,Desktop,Female,464.64
+C010_37,C010,Football Prediction Challenge,Cricket,355.76,,0,18-25,Brazil,Tablet,Male,999.38
+C010_38,C010,Football Prediction Challenge,Cricket,97.89,,0,<18,Brazil,Mobile,Male,850.73
+C010_39,C010,Football Prediction Challenge,Cricket,53.85,Match Tickets,673.9,26-35,Brazil,Desktop,Female,846.8
+C010_40,C010,Football Prediction Challenge,Cricket,119.08,Signed Jersey,125.22,18-25,Australia,Tablet,Female,759.83
+C010_41,C010,Football Prediction Challenge,Cricket,147.97,,0,46-60,Australia,Tablet,Male,741.4
+C010_42,C010,Football Prediction Challenge,Cricket,205.66,,0,<18,UK,Tablet,Female,593.92
+C010_43,C010,Football Prediction Challenge,Cricket,203.17,Signed Jersey,283.1,46-60,Australia,Mobile,Female,821.11
+C010_44,C010,Football Prediction Challenge,Cricket,173.5,,0,18-25,Germany,Mobile,Male,933.69
+C010_45,C010,Football Prediction Challenge,Cricket,68.08,,0,26-35,UK,Tablet,Male,177.04
+C010_46,C010,Football Prediction Challenge,Cricket,390.62,,0,18-25,Brazil,Desktop,Female,855.26
+C010_47,C010,Football Prediction Challenge,Cricket,371.91,,0,60+,USA,Tablet,Male,978.4
+C010_48,C010,Football Prediction Challenge,Cricket,78.54,,0,26-35,UK,Mobile,Female,196.44
+C010_49,C010,Football Prediction Challenge,Cricket,55.35,Merchandise Pack,663.51,26-35,Brazil,Mobile,Female,807.75
+C010_50,C010,Football Prediction Challenge,Cricket,148.04,,0,18-25,Brazil,Desktop,Male,208.71
+C010_51,C010,Football Prediction Challenge,Cricket,84.65,Match Tickets,671.73,36-45,Brazil,Mobile,Male,198.07
+C010_52,C010,Football Prediction Challenge,Cricket,152.66,Merchandise Pack,733.86,<18,Germany,Desktop,Female,943.71
+C010_53,C010,Football Prediction Challenge,Cricket,262.78,,0,26-35,USA,Desktop,Female,483.24
+C010_54,C010,Football Prediction Challenge,Cricket,191.86,Merchandise Pack,955.17,26-35,UK,Tablet,Male,605.87
+C010_55,C010,Football Prediction Challenge,Cricket,326.31,Signed Jersey,389.52,18-25,Brazil,Desktop,Female,684.44
+C010_56,C010,Football Prediction Challenge,Cricket,59.68,,0,26-35,USA,Tablet,Male,340.35
+C010_57,C010,Football Prediction Challenge,Cricket,363.66,Merchandise Pack,844.96,60+,Australia,Mobile,Female,177.01
+C010_58,C010,Football Prediction Challenge,Cricket,60.04,,0,46-60,UK,Desktop,Female,683.99
+C010_59,C010,Football Prediction Challenge,Cricket,107.42,Merchandise Pack,173.39,<18,Germany,Mobile,Female,859.02
+C010_60,C010,Football Prediction Challenge,Cricket,243.22,Signed Jersey,737.87,26-35,Brazil,Tablet,Male,726.62
+C010_61,C010,Football Prediction Challenge,Cricket,273.38,,0,26-35,India,Mobile,Male,213.5
+C010_62,C010,Football Prediction Challenge,Cricket,352.77,,0,26-35,Germany,Desktop,Male,505.54
+C010_63,C010,Football Prediction Challenge,Cricket,272.53,Merchandise Pack,452.38,26-35,Australia,Desktop,Male,428.19
+C010_64,C010,Football Prediction Challenge,Cricket,49.87,Match Tickets,590.17,36-45,UK,Desktop,Male,692.96
+C010_65,C010,Football Prediction Challenge,Cricket,66.44,,0,36-45,UK,Mobile,Male,647.64
+C010_66,C010,Football Prediction Challenge,Cricket,218.25,,0,36-45,USA,Tablet,Male,726.73
+C010_67,C010,Football Prediction Challenge,Cricket,74.41,,0,18-25,Brazil,Tablet,Male,689.35
+C010_68,C010,Football Prediction Challenge,Cricket,223.3,,0,26-35,Brazil,Mobile,Male,595.42
+C010_69,C010,Football Prediction Challenge,Cricket,410.39,,0,18-25,UK,Desktop,Male,359.22
+C010_70,C010,Football Prediction Challenge,Cricket,166.75,,0,46-60,Germany,Tablet,Female,904.63
+C010_71,C010,Football Prediction Challenge,Cricket,269.83,Fan Token,842.99,36-45,Australia,Desktop,Male,382.59
+C010_72,C010,Football Prediction Challenge,Cricket,307.96,,0,36-45,India,Mobile,Female,438.62
+C010_73,C010,Football Prediction Challenge,Cricket,67.79,,0,26-35,India,Desktop,Male,509.47
+C010_74,C010,Football Prediction Challenge,Cricket,410.04,,0,26-35,Germany,Tablet,Male,770.9
+C010_75,C010,Football Prediction Challenge,Cricket,152.31,Signed Jersey,193.93,18-25,UK,Mobile,Female,662.55
+C010_76,C010,Football Prediction Challenge,Cricket,408.47,,0,26-35,Germany,Tablet,Male,160.6
+C010_77,C010,Football Prediction Challenge,Cricket,412.88,,0,18-25,Brazil,Desktop,Male,713.44
+C010_78,C010,Football Prediction Challenge,Cricket,409.33,Discount Voucher,701.51,18-25,UK,Mobile,Female,204.98
+C010_79,C010,Football Prediction Challenge,Cricket,377.53,Merchandise Pack,120.39,36-45,Australia,Mobile,Male,898.66
+C010_80,C010,Football Prediction Challenge,Cricket,256.02,,0,46-60,India,Mobile,Male,500.88
+C010_81,C010,Football Prediction Challenge,Cricket,349,,0,26-35,USA,Desktop,Male,145.26
+C010_82,C010,Football Prediction Challenge,Cricket,113.68,Discount Voucher,569.99,18-25,UK,Mobile,Female,834.1
+C010_83,C010,Football Prediction Challenge,Cricket,339.97,,0,36-45,Brazil,Tablet,Female,192.45
+C010_84,C010,Football Prediction Challenge,Cricket,263.07,Discount Voucher,166.01,26-35,USA,Mobile,Female,541.09
+C010_85,C010,Football Prediction Challenge,Cricket,322.89,,0,<18,Australia,Mobile,Male,416.13
+C010_86,C010,Football Prediction Challenge,Cricket,132.03,Match Tickets,369.77,18-25,Australia,Tablet,Female,307.62
+C010_87,C010,Football Prediction Challenge,Cricket,293.8,Discount Voucher,927.62,36-45,UK,Desktop,Female,540.83
+C010_88,C010,Football Prediction Challenge,Cricket,293.37,,0,26-35,Germany,Tablet,Female,692.85
+C010_89,C010,Football Prediction Challenge,Cricket,288.61,,0,18-25,USA,Tablet,Male,229.82
+C010_90,C010,Football Prediction Challenge,Cricket,205.45,,0,<18,USA,Desktop,Male,418.48
+C010_91,C010,Football Prediction Challenge,Cricket,290.24,,0,26-35,UK,Mobile,Female,615.68
+C010_92,C010,Football Prediction Challenge,Cricket,335.06,Fan Token,690.34,26-35,Australia,Desktop,Female,628.92
+C010_93,C010,Football Prediction Challenge,Cricket,318.91,Match Tickets,241.54,36-45,Australia,Desktop,Male,786.61
+C010_94,C010,Football Prediction Challenge,Cricket,226,Merchandise Pack,708.12,<18,Germany,Mobile,Female,977.31
+C010_95,C010,Football Prediction Challenge,Cricket,357.61,Discount Voucher,542.31,36-45,Germany,Desktop,Male,300.02
+C010_96,C010,Football Prediction Challenge,Cricket,311.8,,0,18-25,Germany,Mobile,Male,239.77
+C010_97,C010,Football Prediction Challenge,Cricket,198.83,Match Tickets,574.35,26-35,UK,Tablet,Male,934.81
+C010_98,C010,Football Prediction Challenge,Cricket,340.89,,0,18-25,Germany,Tablet,Female,379.89
+C010_99,C010,Football Prediction Challenge,Cricket,424.55,Signed Jersey,186.39,36-45,UK,Tablet,Male,905.88
+C010_100,C010,Football Prediction Challenge,Cricket,174.57,,0,36-45,USA,Tablet,Male,309.62
+C010_101,C010,Football Prediction Challenge,Cricket,104.15,,0,46-60,Australia,Mobile,Male,581.06
+C010_102,C010,Football Prediction Challenge,Cricket,360.45,,0,<18,Germany,Tablet,Male,403.68
+C010_103,C010,Football Prediction Challenge,Cricket,175,,0,26-35,Brazil,Desktop,Male,524.02
+C010_104,C010,Football Prediction Challenge,Cricket,366.07,,0,26-35,India,Mobile,Female,540.23
+C010_105,C010,Football Prediction Challenge,Cricket,362.09,Signed Jersey,196.49,18-25,USA,Desktop,Male,660.42
+C010_106,C010,Football Prediction Challenge,Cricket,103.86,Merchandise Pack,315.39,26-35,India,Tablet,Male,799.75
+C010_107,C010,Football Prediction Challenge,Cricket,225.51,,0,26-35,Australia,Mobile,Female,385.63
+C010_108,C010,Football Prediction Challenge,Cricket,129.9,,0,46-60,USA,Tablet,Female,938.94
+C010_109,C010,Football Prediction Challenge,Cricket,331.79,,0,26-35,Germany,Mobile,Male,399.84
+C010_110,C010,Football Prediction Challenge,Cricket,359.89,,0,60+,India,Desktop,Female,843.25
+C010_111,C010,Football Prediction Challenge,Cricket,387.99,,0,<18,India,Desktop,Male,235.67
+C010_112,C010,Football Prediction Challenge,Cricket,110.9,Discount Voucher,435.41,46-60,USA,Desktop,Male,906.88
+C010_113,C010,Football Prediction Challenge,Cricket,267.12,,0,36-45,Germany,Tablet,Male,829.93
+C010_114,C010,Football Prediction Challenge,Cricket,212.84,,0,36-45,USA,Mobile,Male,317.49
+C010_115,C010,Football Prediction Challenge,Cricket,149.39,,0,<18,USA,Mobile,Female,945.38
+C010_116,C010,Football Prediction Challenge,Cricket,177.2,,0,<18,USA,Desktop,Male,763.84
+C010_117,C010,Football Prediction Challenge,Cricket,217.47,Merchandise Pack,116.59,36-45,UK,Tablet,Female,792.42
+C010_118,C010,Football Prediction Challenge,Cricket,229.35,Merchandise Pack,238.8,26-35,Australia,Tablet,Male,701.09
+C010_119,C010,Football Prediction Challenge,Cricket,261.08,Merchandise Pack,794.72,26-35,USA,Tablet,Male,223.34
+C010_120,C010,Football Prediction Challenge,Cricket,222.23,Merchandise Pack,202.67,<18,Brazil,Desktop,Male,735.11
+C010_121,C010,Football Prediction Challenge,Cricket,406.77,,0,18-25,India,Tablet,Male,190.36
+C010_122,C010,Football Prediction Challenge,Cricket,35.85,,0,46-60,Brazil,Mobile,Female,960.32
+C010_123,C010,Football Prediction Challenge,Cricket,157.93,Match Tickets,846.84,26-35,Australia,Desktop,Male,247.5
+C010_124,C010,Football Prediction Challenge,Cricket,160.42,,0,36-45,India,Tablet,Female,650.39
+C010_125,C010,Football Prediction Challenge,Cricket,306.75,,0,36-45,India,Desktop,Female,989.42
+C010_126,C010,Football Prediction Challenge,Cricket,354.05,Discount Voucher,912.62,18-25,India,Mobile,Female,742.37
+C010_127,C010,Football Prediction Challenge,Cricket,391.19,Signed Jersey,529.92,36-45,India,Desktop,Female,282.14
+C010_128,C010,Football Prediction Challenge,Cricket,394.74,,0,36-45,Brazil,Mobile,Male,200.63
+C010_129,C010,Football Prediction Challenge,Cricket,380.94,,0,26-35,USA,Desktop,Female,343.96
+C010_130,C010,Football Prediction Challenge,Cricket,295.51,,0,18-25,Germany,Tablet,Male,491.45
+C010_131,C010,Football Prediction Challenge,Cricket,283.48,Discount Voucher,823.87,18-25,USA,Tablet,Female,692.89
+C010_132,C010,Football Prediction Challenge,Cricket,387.2,,0,36-45,Germany,Desktop,Female,302.32
+C010_133,C010,Football Prediction Challenge,Cricket,123,,0,18-25,Australia,Desktop,Female,826.12
+C010_134,C010,Football Prediction Challenge,Cricket,178.27,Fan Token,497.05,18-25,UK,Desktop,Female,507.02
+C010_135,C010,Football Prediction Challenge,Cricket,52.64,,0,26-35,UK,Mobile,Female,847.04
+C010_136,C010,Football Prediction Challenge,Cricket,183.61,,0,26-35,Brazil,Tablet,Male,175.73
+C010_137,C010,Football Prediction Challenge,Cricket,114.96,,0,26-35,UK,Tablet,Female,395.9
+C010_138,C010,Football Prediction Challenge,Cricket,98.95,Match Tickets,644.26,<18,USA,Desktop,Male,674.22
+C010_139,C010,Football Prediction Challenge,Cricket,120.37,Merchandise Pack,586.14,18-25,Australia,Mobile,Male,568.02
+C010_140,C010,Football Prediction Challenge,Cricket,145.69,,0,36-45,Germany,Mobile,Female,115.17
+C010_141,C010,Football Prediction Challenge,Cricket,207.79,,0,18-25,Germany,Mobile,Male,610.27
+C010_142,C010,Football Prediction Challenge,Cricket,171.37,,0,46-60,Brazil,Tablet,Female,313.4
+C010_143,C010,Football Prediction Challenge,Cricket,43.11,Signed Jersey,714.65,<18,UK,Tablet,Female,593.78
+C010_144,C010,Football Prediction Challenge,Cricket,116.52,Signed Jersey,312.33,<18,Germany,Tablet,Male,789.56
+C010_145,C010,Football Prediction Challenge,Cricket,327.02,Discount Voucher,118.46,18-25,Australia,Tablet,Female,676.02
+C010_146,C010,Football Prediction Challenge,Cricket,63.67,,0,26-35,USA,Mobile,Female,930.99
+C010_147,C010,Football Prediction Challenge,Cricket,316.42,Signed Jersey,874.96,26-35,Germany,Desktop,Female,747.25
+C010_148,C010,Football Prediction Challenge,Cricket,384.5,,0,36-45,Brazil,Mobile,Male,252.86
+C010_149,C010,Football Prediction Challenge,Cricket,199.19,,0,36-45,UK,Mobile,Female,270.44
+C010_150,C010,Football Prediction Challenge,Cricket,315.5,,0,36-45,India,Tablet,Male,747.06
+C010_151,C010,Football Prediction Challenge,Cricket,376.6,,0,36-45,India,Desktop,Male,207.2
+C010_152,C010,Football Prediction Challenge,Cricket,122.21,,0,18-25,Germany,Mobile,Female,699.72
+C010_153,C010,Football Prediction Challenge,Cricket,346.44,Match Tickets,847.94,36-45,India,Desktop,Male,899.45
+C010_154,C010,Football Prediction Challenge,Cricket,280.21,Signed Jersey,768.09,46-60,India,Mobile,Male,488.68
+C010_155,C010,Football Prediction Challenge,Cricket,290.81,Fan Token,906.91,60+,Germany,Desktop,Female,575.76
+C010_156,C010,Football Prediction Challenge,Cricket,351.42,Merchandise Pack,495.68,36-45,Australia,Desktop,Male,132.55
+C010_157,C010,Football Prediction Challenge,Cricket,169.52,,0,26-35,Australia,Desktop,Male,815.37
+C010_158,C010,Football Prediction Challenge,Cricket,180.97,,0,36-45,Brazil,Mobile,Female,134.76
+C010_159,C010,Football Prediction Challenge,Cricket,80.31,Match Tickets,184.96,18-25,UK,Desktop,Female,901.43
+C010_160,C010,Football Prediction Challenge,Cricket,221.31,,0,<18,USA,Tablet,Female,444.21
+C010_161,C010,Football Prediction Challenge,Cricket,340.89,,0,46-60,UK,Tablet,Female,919.42
+C010_162,C010,Football Prediction Challenge,Cricket,323.96,,0,36-45,UK,Tablet,Female,112.96
+C010_163,C010,Football Prediction Challenge,Cricket,298.21,Merchandise Pack,376.05,18-25,Germany,Desktop,Male,734.27
+C010_164,C010,Football Prediction Challenge,Cricket,102.01,Discount Voucher,451.14,18-25,Brazil,Desktop,Male,379.16
+C010_165,C010,Football Prediction Challenge,Cricket,86.93,Merchandise Pack,841.93,36-45,Brazil,Mobile,Female,234.07
+C010_166,C010,Football Prediction Challenge,Cricket,77.4,Merchandise Pack,398.91,26-35,Brazil,Desktop,Male,695.23
+C010_167,C010,Football Prediction Challenge,Cricket,61.25,,0,46-60,USA,Tablet,Female,241.73
+C010_168,C010,Football Prediction Challenge,Cricket,142.42,,0,18-25,Brazil,Mobile,Female,870.86
+C010_169,C010,Football Prediction Challenge,Cricket,299.13,,0,18-25,UK,Tablet,Female,666.2
+C010_170,C010,Football Prediction Challenge,Cricket,415.8,Fan Token,131.1,18-25,India,Tablet,Male,597.45
+C010_171,C010,Football Prediction Challenge,Cricket,239.88,Discount Voucher,499.7,46-60,UK,Mobile,Male,736.23
+C010_172,C010,Football Prediction Challenge,Cricket,118.3,,0,18-25,Germany,Tablet,Female,325.3
+C010_173,C010,Football Prediction Challenge,Cricket,397.09,,0,<18,India,Desktop,Female,804.4
+C010_174,C010,Football Prediction Challenge,Cricket,217.18,,0,36-45,UK,Tablet,Female,264.35
+C010_175,C010,Football Prediction Challenge,Cricket,361.88,,0,<18,Germany,Mobile,Male,603.24
+C010_176,C010,Football Prediction Challenge,Cricket,190.08,Merchandise Pack,964.92,26-35,UK,Tablet,Female,354.95
+C010_177,C010,Football Prediction Challenge,Cricket,369.63,,0,26-35,Australia,Tablet,Female,235.5
+C010_178,C010,Football Prediction Challenge,Cricket,106.92,,0,60+,Australia,Desktop,Male,771.93
+C010_179,C010,Football Prediction Challenge,Cricket,239.24,,0,<18,India,Desktop,Female,760.9
+C010_180,C010,Football Prediction Challenge,Cricket,236.18,Signed Jersey,969.59,<18,Australia,Desktop,Female,875.72
+C010_181,C010,Football Prediction Challenge,Cricket,286.19,Discount Voucher,667.89,26-35,UK,Tablet,Male,533.22
+C010_182,C010,Football Prediction Challenge,Cricket,286.4,Discount Voucher,616.52,36-45,UK,Desktop,Female,483.29
+C010_183,C010,Football Prediction Challenge,Cricket,44.32,Discount Voucher,544.9,<18,Germany,Mobile,Male,280.03
+C010_184,C010,Football Prediction Challenge,Cricket,289.96,Merchandise Pack,259.26,<18,Germany,Mobile,Male,789.52
+C010_185,C010,Football Prediction Challenge,Cricket,45.39,Fan Token,868.85,36-45,India,Desktop,Female,476.69
+C010_186,C010,Football Prediction Challenge,Cricket,71.64,,0,26-35,Germany,Desktop,Female,906.92
+C010_187,C010,Football Prediction Challenge,Cricket,65.3,,0,26-35,Australia,Mobile,Female,436.6
+C010_188,C010,Football Prediction Challenge,Cricket,291.81,Discount Voucher,630.15,26-35,India,Desktop,Male,497.18
+C010_189,C010,Football Prediction Challenge,Cricket,309.52,Discount Voucher,688.98,36-45,Germany,Mobile,Male,764.03
+C010_190,C010,Football Prediction Challenge,Cricket,86.36,Fan Token,699.74,36-45,Australia,Mobile,Female,453.02
+C010_191,C010,Football Prediction Challenge,Cricket,322.25,,0,<18,India,Tablet,Male,481.67
+C010_192,C010,Football Prediction Challenge,Cricket,48.52,,0,36-45,USA,Tablet,Male,150.28
+C010_193,C010,Football Prediction Challenge,Cricket,224.23,,0,18-25,Brazil,Desktop,Male,229.57
+C010_194,C010,Football Prediction Challenge,Cricket,218.96,Fan Token,444.47,26-35,Brazil,Desktop,Female,929.21
+C010_195,C010,Football Prediction Challenge,Cricket,327.3,Signed Jersey,763.35,36-45,Brazil,Mobile,Female,119.54
+C010_196,C010,Football Prediction Challenge,Cricket,404.77,Discount Voucher,424.17,36-45,Brazil,Tablet,Male,642.73
+C010_197,C010,Football Prediction Challenge,Cricket,365.15,,0,<18,UK,Desktop,Male,474.42
+C010_198,C010,Football Prediction Challenge,Cricket,215.9,,0,26-35,Germany,Tablet,Male,211.28
+C010_199,C010,Football Prediction Challenge,Cricket,319.76,,0,26-35,Germany,Tablet,Male,670.49
+C010_200,C010,Football Prediction Challenge,Cricket,62.67,Discount Voucher,951.26,18-25,Australia,Tablet,Female,511.69
+C010_201,C010,Football Prediction Challenge,Cricket,361.66,,0,36-45,Germany,Mobile,Female,912.21
+C010_202,C010,Football Prediction Challenge,Cricket,258.16,,0,36-45,Brazil,Tablet,Male,458.6
+C010_203,C010,Football Prediction Challenge,Cricket,255.81,,0,36-45,Germany,Desktop,Female,916.82
+C010_204,C010,Football Prediction Challenge,Cricket,83.09,,0,36-45,Brazil,Tablet,Female,923.77
+C010_205,C010,Football Prediction Challenge,Cricket,363.02,,0,26-35,USA,Desktop,Female,290.45
+C010_206,C010,Football Prediction Challenge,Cricket,421.28,,0,<18,USA,Tablet,Male,949.78
+C010_207,C010,Football Prediction Challenge,Cricket,74.62,,0,18-25,Brazil,Tablet,Male,305.93
+C010_208,C010,Football Prediction Challenge,Cricket,417.51,Signed Jersey,135.19,36-45,India,Tablet,Male,943.77
+C010_209,C010,Football Prediction Challenge,Cricket,384.78,Discount Voucher,732.65,18-25,Australia,Desktop,Male,736.45
+C010_210,C010,Football Prediction Challenge,Cricket,313.08,,0,26-35,India,Tablet,Male,503.08
+C010_211,C010,Football Prediction Challenge,Cricket,162.05,,0,26-35,Brazil,Tablet,Female,339.04
+C010_212,C010,Football Prediction Challenge,Cricket,45.53,,0,18-25,USA,Mobile,Female,659.28
+C010_213,C010,Football Prediction Challenge,Cricket,264.13,,0,26-35,Germany,Tablet,Male,334.57
+C010_214,C010,Football Prediction Challenge,Cricket,250.19,,0,26-35,Germany,Mobile,Female,805.52
+C010_215,C010,Football Prediction Challenge,Cricket,171.44,,0,18-25,Germany,Mobile,Male,944.78
+C010_216,C010,Football Prediction Challenge,Cricket,192.57,,0,18-25,Brazil,Tablet,Female,328.13
+C010_217,C010,Football Prediction Challenge,Cricket,202.39,Signed Jersey,672.29,18-25,Germany,Tablet,Female,904.55
+C010_218,C010,Football Prediction Challenge,Cricket,49.09,,0,18-25,UK,Desktop,Female,108.38
+C010_219,C010,Football Prediction Challenge,Cricket,59.19,,0,46-60,USA,Desktop,Male,609.31
+C010_220,C010,Football Prediction Challenge,Cricket,353.13,,0,26-35,UK,Desktop,Female,728.88
+C010_221,C010,Football Prediction Challenge,Cricket,292.73,Merchandise Pack,442.4,<18,UK,Mobile,Female,585.28
+C010_222,C010,Football Prediction Challenge,Cricket,356.76,,0,36-45,USA,Desktop,Female,872.57
+C010_223,C010,Football Prediction Challenge,Cricket,289.32,,0,<18,UK,Desktop,Female,179.59
+C010_224,C010,Football Prediction Challenge,Cricket,363.02,,0,36-45,USA,Mobile,Female,748.34
+C010_225,C010,Football Prediction Challenge,Cricket,364.23,,0,<18,UK,Desktop,Male,741.13
+C010_226,C010,Football Prediction Challenge,Cricket,180.48,,0,18-25,Germany,Tablet,Male,440.85
+C010_227,C010,Football Prediction Challenge,Cricket,155.08,Signed Jersey,123.96,36-45,UK,Desktop,Male,155.23
+C010_228,C010,Football Prediction Challenge,Cricket,159.92,,0,18-25,Brazil,Mobile,Male,497.05
+C010_229,C010,Football Prediction Challenge,Cricket,195.49,,0,36-45,India,Mobile,Female,952.42
+C010_230,C010,Football Prediction Challenge,Cricket,369.77,,0,26-35,Australia,Tablet,Male,594.48
+C010_231,C010,Football Prediction Challenge,Cricket,302.9,,0,46-60,UK,Tablet,Female,352.38
+C010_232,C010,Football Prediction Challenge,Cricket,94.9,Fan Token,652.18,18-25,Germany,Mobile,Male,455.16
+C010_233,C010,Football Prediction Challenge,Cricket,351.56,,0,<18,Germany,Desktop,Female,891.88
+C010_234,C010,Football Prediction Challenge,Cricket,389.48,Discount Voucher,465.43,36-45,Australia,Mobile,Female,179.7
+C010_235,C010,Football Prediction Challenge,Cricket,378.81,,0,46-60,UK,Desktop,Female,473.5
+C010_236,C010,Football Prediction Challenge,Cricket,191,,0,26-35,Brazil,Mobile,Male,324.69
+C010_237,C010,Football Prediction Challenge,Cricket,97.32,,0,18-25,India,Desktop,Female,674.42
+C010_238,C010,Football Prediction Challenge,Cricket,108.63,,0,18-25,Australia,Mobile,Male,289.5
+C010_239,C010,Football Prediction Challenge,Cricket,408.05,,0,18-25,UK,Desktop,Male,108.05
+C010_240,C010,Football Prediction Challenge,Cricket,290.67,Match Tickets,780.87,36-45,Brazil,Tablet,Male,802.86
+C010_241,C010,Football Prediction Challenge,Cricket,82.09,,0,26-35,USA,Mobile,Female,166.32
+C010_242,C010,Football Prediction Challenge,Cricket,341.67,,0,26-35,Germany,Desktop,Female,976.03
+C010_243,C010,Football Prediction Challenge,Cricket,399.58,Match Tickets,873.4,18-25,Germany,Desktop,Female,866.73
+C010_244,C010,Football Prediction Challenge,Cricket,336.41,Signed Jersey,136.92,26-35,USA,Desktop,Female,841.7
+C010_245,C010,Football Prediction Challenge,Cricket,337.98,,0,26-35,Brazil,Mobile,Female,785.64
+C010_246,C010,Football Prediction Challenge,Cricket,85.65,,0,36-45,India,Tablet,Male,565.03
+C010_247,C010,Football Prediction Challenge,Cricket,356.68,,0,36-45,Germany,Desktop,Female,937.97
+C010_248,C010,Football Prediction Challenge,Cricket,96.96,Merchandise Pack,418.5,18-25,Australia,Tablet,Male,526.47
+C010_249,C010,Football Prediction Challenge,Cricket,330.15,,0,36-45,India,Desktop,Male,176.01
+C010_250,C010,Football Prediction Challenge,Cricket,109.27,,0,26-35,Australia,Tablet,Female,304.46
+C010_251,C010,Football Prediction Challenge,Cricket,90.13,,0,36-45,UK,Tablet,Male,561.64
+C010_252,C010,Football Prediction Challenge,Cricket,50.79,,0,18-25,Brazil,Mobile,Male,232.28
+C010_253,C010,Football Prediction Challenge,Cricket,227.64,,0,<18,Australia,Tablet,Female,236.27
+C010_254,C010,Football Prediction Challenge,Cricket,296.29,,0,26-35,Brazil,Desktop,Male,326.87
+C010_255,C010,Football Prediction Challenge,Cricket,367.64,Merchandise Pack,835.79,26-35,USA,Mobile,Female,325.27
+C010_256,C010,Football Prediction Challenge,Cricket,310.52,,0,60+,Germany,Desktop,Male,538.54
+C010_257,C010,Football Prediction Challenge,Cricket,221.59,Match Tickets,432.2,26-35,Brazil,Tablet,Female,974.93
+C010_258,C010,Football Prediction Challenge,Cricket,211.71,,0,46-60,USA,Mobile,Female,337.74
+C010_259,C010,Football Prediction Challenge,Cricket,48.73,Signed Jersey,110.26,26-35,Brazil,Desktop,Female,689.77
+C010_260,C010,Football Prediction Challenge,Cricket,284.12,Fan Token,582.47,36-45,Australia,Tablet,Male,620.76
+C010_261,C010,Football Prediction Challenge,Cricket,349.07,,0,18-25,UK,Desktop,Female,688.17
+C010_262,C010,Football Prediction Challenge,Cricket,396.17,Fan Token,729.2,26-35,Brazil,Tablet,Female,981.33
+C010_263,C010,Football Prediction Challenge,Cricket,101.66,,0,36-45,Australia,Desktop,Male,893.81
+C010_264,C010,Football Prediction Challenge,Cricket,377.1,Match Tickets,800.32,36-45,Brazil,Desktop,Male,589.09
+C010_265,C010,Football Prediction Challenge,Cricket,153.37,,0,36-45,India,Desktop,Male,964.02
+C010_266,C010,Football Prediction Challenge,Cricket,106.07,,0,36-45,UK,Mobile,Female,394.56
+C010_267,C010,Football Prediction Challenge,Cricket,74.48,,0,<18,Brazil,Mobile,Male,292.57
+C010_268,C010,Football Prediction Challenge,Cricket,364.79,Discount Voucher,327.46,<18,Australia,Desktop,Male,593.11
+C010_269,C010,Football Prediction Challenge,Cricket,85.22,,0,26-35,Brazil,Desktop,Female,355.14
+C010_270,C010,Football Prediction Challenge,Cricket,377.03,Fan Token,515.09,26-35,India,Desktop,Male,594.87

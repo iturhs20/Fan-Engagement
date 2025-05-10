@@ -7,14 +7,34 @@ import Header from '../components/contest/Header';
 import StatCards from '../components/contest/StatCards';
 import Charts from '../components/contest/Charts';
 
+// Import Contest Part 2 components
+import CombinedDashboard from '../components/contest/Chart1';
+import GenderPieChart from '../components/contest/GenderPieChart';
+import TimeSpentBarChart from '../components/contest/TimeSpentBarChart';
+import DataTable from '../components/contest/DataTable';
+import DashboardFilters from '@/app/components/contest/DashboardFilters';
+
 export default function ContestsPage() {
+  // Part 1 state
   const [data, setData] = useState([]);
   const [sportType, setSportType] = useState('');
   const [contestName, setContestName] = useState('');
   const [activeTab, setActiveTab] = useState('page1');
+  
+  // Part 2 state
+  const [originalData, setOriginalData] = useState([]);
+  const [filteredData, setFilteredData] = useState([]);
+  const [filters, setFilters] = useState({
+    Age_Group: '',
+    Location: '',
+    Item_Purchased: '',
+    Contest_ID: '',
+    Country: ''
+  });
 
+  // Load Part 1 data
   useEffect(() => {
-    fetch('/contest1.csv') // assuming it's placed in your `public` folder
+    fetch('/contest1.csv')
       .then(res => res.text())
       .then(csv => {
         Papa.parse(csv, {
@@ -28,7 +48,33 @@ export default function ContestsPage() {
       });
   }, []);
 
-  const filteredData = data.filter(item =>
+  // Load Part 2 data
+  useEffect(() => {
+    if (activeTab === 'page2') {
+      Papa.parse('/contest2.csv', {
+        header: true,
+        download: true,
+        skipEmptyLines: true,
+        dynamicTyping: true,
+        complete: (results) => {
+          setOriginalData(results.data);
+        }
+      });
+    }
+  }, [activeTab]);
+
+  // Filter Part 2 data based on filters
+  useEffect(() => {
+    const filtered = originalData.filter((row) =>
+      Object.keys(filters).every((key) =>
+        !filters[key] || row[key] === filters[key]
+      )
+    );
+    setFilteredData(filtered);
+  }, [originalData, filters]);
+
+  // Part 1 filtering
+  const filteredPart1Data = data.filter(item =>
     (sportType ? item.Sport_Type === sportType : true) &&
     (contestName ? item.Contest_Name === contestName : true)
   );
@@ -67,17 +113,31 @@ export default function ContestsPage() {
           </div>
         </div>
         
-        <div className="p-6 space-y-6">
-          <Header
-            data={Array.isArray(data) ? data : []}
-            sportType={sportType}
-            setSportType={setSportType}
-            contestName={contestName}
-            setContestName={setContestName}
-          />
-          <StatCards data={filteredData} />
-          <Charts data={filteredData} />
-        </div>
+        {activeTab === 'page1' ? (
+          <div className="p-6 space-y-6">
+            <Header
+              data={Array.isArray(data) ? data : []}
+              sportType={sportType}
+              setSportType={setSportType}
+              contestName={contestName}
+              setContestName={setContestName}
+            />
+            <StatCards data={filteredPart1Data} />
+            <Charts data={filteredPart1Data} />
+          </div>
+        ) : (
+          <div className="p-6 space-y-6">
+            <DashboardFilters filters={filters} setFilters={setFilters} data={originalData} />
+            <div>
+              <CombinedDashboard data={filteredData} />
+            </div>
+            <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
+              <GenderPieChart data={filteredData} />
+              <TimeSpentBarChart data={filteredData} />
+            </div>
+            <DataTable data={filteredData} />
+          </div>
+        )}
       </div>
     </Layout>
   );
