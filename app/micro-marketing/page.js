@@ -7,6 +7,7 @@ import Part1Filters from '../components/micro-marketing/Part1Filters';
 import Part1Chart from '../components/micro-marketing/Part1Chart';
 import EngagementChart from '../components/micro-marketing/EngagementChart';
 import HierarchicalFlowchart from '../components/micro-marketing/HierarchicalFlowchart';
+import StackedBarChart from '../components/micro-marketing/StackedBarChart';
 
 export default function MicroMarketingPage() {
   const [csvData, setCsvData] = useState([]);
@@ -74,7 +75,7 @@ export default function MicroMarketingPage() {
           <div className="p-4">
             <Part1Filters data={csvData} onFilterChange={applyFilters} />
             
-            <div className="mt-8 bg-gray-900 rounded-lg p-4">
+            <div className="mt-8 bg-gray-900 rounded-lg p-4 max-w-[1200px] mx-auto">
               <h3 className="text-xl font-medium mb-4">Average Of Fan_Level_Index1 By Day</h3>
               <div className="h-96">
                 <Part1Chart filteredData={filteredData} />
@@ -91,8 +92,13 @@ export default function MicroMarketingPage() {
             </div>
 
             {/* Drill Down Chart - new component */}
-            <div className=" rounded-lg p-7">
+            <div className="rounded-lg p-7 -mb-5">
               <HierarchicalFlowchart />
+            </div>
+
+            {/* Stacked Bar Chart - newly added component */}
+            <div className="rounded-lg p-7">
+              <StackedBarChart />
             </div>
 
           </div>

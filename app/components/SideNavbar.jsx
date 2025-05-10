@@ -38,7 +38,7 @@ const SideNavbar = () => {
   const toggleMinimize = () => setIsMinimized(!isMinimized);
 
   const navItems = [
-    { icon: <PieChart className="w-5 h-5 text-purple-500" />, label: 'Awareness', href: '/awareness' },
+    { icon: <PieChart className="w-5 h-5 text-purple-500" />, label: 'Awareness', href: '/#' },
     { icon: <ThumbsUp className="w-5 h-5 text-yellow-500" />, label: 'On Boarding', href: '/onboarding' },
     { icon: <MessageSquare className="w-5 h-5 text-red-500" />, label: 'Engagement', href: '/engagement' },
     { icon: <ShoppingBag className="w-5 h-5 text-green-500" />, label: 'Micro Market Strategy', href: '/micro-marketing' },
