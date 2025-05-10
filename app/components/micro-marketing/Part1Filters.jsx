@@ -21,16 +21,31 @@ const Part1Filters = ({ data, onFilterChange }) => {
     onFilterChange(updatedFilters);
   };
 
+  const handleSelectAll = (field) => {
+    const updatedFilters = {
+      ...filters,
+      [field]: ''
+    };
+    
+    setFilters(updatedFilters);
+    onFilterChange(updatedFilters);
+  };
+
   const renderFilterSection = (field) => {
     return (
-      <div className="bg-gray-800 rounded-lg p-4 flex-1">
+      <div className="bg-gray-800 rounded-lg p-3 md:p-4 flex-1 shadow-lg">
         <div className="mb-2 flex justify-between items-center">
-          <h3 className="text-lg">{field.replace('_', ' ')}</h3>
-          <button className="text-sm text-blue-400">Select All</button>
+          <h3 className="text-sm md:text-base lg:text-lg font-medium">{field.replace('_', ' ')}</h3>
+          <button 
+            className="text-xs md:text-sm text-blue-400 hover:text-blue-300 transition-colors"
+            onClick={() => handleSelectAll(field)}
+          >
+            Select All
+          </button>
         </div>
-        <div className="bg-black rounded-lg p-2">
+        <div className="bg-gray-900 rounded-lg p-1 md:p-2 border border-gray-700">
           <select 
-            className="w-full bg-black text-white border-none"
+            className="w-full bg-gray-900 text-white border-none text-sm md:text-base focus:outline-none focus:ring-2 focus:ring-blue-500 rounded"
             onChange={(e) => handleFilterChange(field, e.target.value)}
             value={filters[field] || ''}
           >
@@ -45,12 +60,12 @@ const Part1Filters = ({ data, onFilterChange }) => {
   };
 
   return (
-    <div>
-      <div className="grid grid-cols-4 gap-4 mb-4">
+    <div className="p-2 md:p-4">
+      <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-2 md:gap-3 lg:gap-4 mb-2 md:mb-4">
         {fields.slice(0, 4).map(field => renderFilterSection(field))}
       </div>
       
-      <div className="grid grid-cols-2 gap-4">
+      <div className="grid grid-cols-1 sm:grid-cols-2 gap-2 md:gap-3 lg:gap-4">
         {fields.slice(4, 6).map(field => renderFilterSection(field))}
       </div>
     </div>

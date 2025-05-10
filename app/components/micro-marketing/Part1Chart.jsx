@@ -7,7 +7,8 @@ import {
   PointElement,
   Title,
   Tooltip,
-  Legend
+  Legend,
+  Filler
 } from 'chart.js';
 
 ChartJS.register(
@@ -17,7 +18,8 @@ ChartJS.register(
   PointElement,
   Title,
   Tooltip,
-  Legend
+  Legend,
+  Filler
 );
 
 const Part1Chart = ({ filteredData }) => {
@@ -43,12 +45,15 @@ const Part1Chart = ({ filteredData }) => {
     datasets: [{
       label: 'Avg Fan Level Index',
       data: averages,
-      fill: false,
-      borderColor: '#3b82f6', // blue-500
-      backgroundColor: 'rgba(59, 130, 246, 0.5)',
-      tension: 0.1,
-      pointBackgroundColor: '#3b82f6',
+      fill: true,
+      borderColor: '#6366f1', // indigo-500
+      backgroundColor: 'rgba(99, 102, 241, 0.15)',
+      tension: 0.4,
+      pointBackgroundColor: '#8b5cf6', // purple-500
+      pointBorderColor: '#ffffff',
       pointRadius: 4,
+      pointHoverRadius: 6,
+      pointBorderWidth: 2,
     }]
   };
 
@@ -57,38 +62,97 @@ const Part1Chart = ({ filteredData }) => {
     maintainAspectRatio: false,
     plugins: {
       legend: {
-        display: false // Hide the legend
+        display: true,
+        position: 'top',
+        labels: {
+          color: 'white',
+          font: {
+            size: 12,
+            weight: 'bold'
+          },
+          boxWidth: 15,
+          padding: 15
+        }
       },
       tooltip: {
-        backgroundColor: '#1f2937', // gray-800
+        backgroundColor: 'rgba(17, 24, 39, 0.9)', // gray-900 with opacity
         titleColor: 'white',
         bodyColor: 'white',
-        borderColor: '#4b5563', // gray-600
-        borderWidth: 1
+        borderColor: '#4f46e5', // indigo-600
+        borderWidth: 1,
+        padding: 10,
+        cornerRadius: 6,
+        caretSize: 6,
+        callbacks: {
+          title: (context) => {
+            return `Date: ${context[0].label}`;
+          },
+          label: (context) => {
+            return `Index: ${context.raw}`;
+          }
+        }
       }
     },
     scales: {
       x: {
         grid: {
-          color: 'rgba(75, 85, 99, 0.2)' // gray-600 with opacity
+          color: 'rgba(156, 163, 175, 0.1)', // gray-400 with low opacity
+          tickLength: 8,
+          drawBorder: true,
         },
         ticks: {
-          color: 'white'
+          color: 'rgba(255, 255, 255, 0.8)',
+          font: {
+            size: 10
+          },
+          maxRotation: 45,
+          minRotation: 45,
+          autoSkip: true,
+          maxTicksLimit: 12
+        },
+        title: {
+          display: true,
+          text: 'Date',
+          color: 'white',
+          padding: {
+            top: 10
+          }
         }
       },
       y: {
         grid: {
-          color: 'rgba(75, 85, 99, 0.2)' // gray-600 with opacity
+          color: 'rgba(156, 163, 175, 0.1)', // gray-400 with low opacity
+          drawBorder: true,
         },
         ticks: {
-          color: 'white'
+          color: 'rgba(255, 255, 255, 0.8)',
+          font: {
+            size: 10
+          },
+          padding: 5
+        },
+        title: {
+          display: true,
+          text: 'Fan Level Index',
+          color: 'white',
+          padding: {
+            bottom: 10
+          }
         }
       }
+    },
+    interaction: {
+      mode: 'index',
+      intersect: false,
+    },
+    animation: {
+      duration: 1000,
+      easing: 'easeOutQuart'
     }
   };
 
   return (
-    <div className="w-full h-full">
+    <div className="w-full h-full min-h-64 md:min-h-80 lg:min-h-96 relative">
       <Line data={chartData} options={options} />
     </div>
   );
