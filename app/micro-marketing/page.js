@@ -44,7 +44,7 @@ export default function MicroMarketingPage() {
     <Layout>
       <div className="bg-black text-white flex flex-col h-full">
         {/* Fixed header */}
-        <div className="flex flex-col md:flex-row md:justify-between items-start md:items-center p-4 border-b border-gray-800">
+        <div className="flex flex-col md:flex-row md:justify-between items-start md:items-center p-4 ">
           <h2 className="text-2xl font-bold mb-3 md:mb-0">
             {activeTab === 'part1' ? 'Micro Market Strategy - Part I' : 'Micro Market Strategy - Part II'}
           </h2>
