@@ -1,8 +1,8 @@
 import { useState } from 'react';
 
 const Part1Filters = ({ data, onFilterChange }) => {
-  // All fields are treated the same way now
-  const fields = ['Contest_ID', 'Age_Group', 'Device', 'Location', 'Contest_Name', 'Login_ID'];
+  // Added Fan_Level to the fields list
+  const fields = ['Contest_ID', 'Age_Group', 'Device', 'Location', 'Contest_Name', 'Login_ID', 'Fan_Level'];
   
   const [filters, setFilters] = useState({});
 
@@ -65,8 +65,8 @@ const Part1Filters = ({ data, onFilterChange }) => {
         {fields.slice(0, 4).map(field => renderFilterSection(field))}
       </div>
       
-      <div className="grid grid-cols-1 sm:grid-cols-2 gap-2 md:gap-3 lg:gap-4">
-        {fields.slice(4, 6).map(field => renderFilterSection(field))}
+      <div className="grid grid-cols-1 sm:grid-cols-3 gap-2 md:gap-3 lg:gap-4">
+        {fields.slice(4, 7).map(field => renderFilterSection(field))}
       </div>
     </div>
   );

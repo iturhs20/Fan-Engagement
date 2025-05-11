@@ -1,27 +1,39 @@
 import { ArrowUpRight } from 'lucide-react';
 
 const fields = [
-  { label: 'Total Registration', key: 'Total_Registrations', format: (value) => `${value}K` },
-  { label: 'User Count', key: 'User_Count', format: (value) => `${value}K` },
-  { label: 'Engagement Rate', key: 'Engagement_Rate (%)', format: (value) => value },
-  { label: 'Bounce Rate', key: 'Bounce_Rate (%)', format: (value) => value },
-  { label: 'Participation Rate', key: 'Participation_Rate (%)', format: (value) => value },
-  { label: 'Contest Revenue', key: 'Contest_Revenue (INR)', format: (value) => `${value}K` },
-  { label: 'Buyer Percentage', key: 'Buyers_Percentage (%)', format: (value) => `%${value}` }
+  { label: 'Total Registration', key: 'Total_Registrations', format: (value) => `${Math.round(value)}K` },
+  { label: 'User Count', key: 'User_Count', format: (value) => `${Math.round(value)}K` },
+  { label: 'Engagement Rate', key: 'Engagement_Rate (%)', format: (value) => `${Math.round(value)}%` },
+  { label: 'Bounce Rate', key: 'Bounce_Rate (%)', format: (value) => `${Math.round(value)}%` },
+  { label: 'Contest Revenue', key: 'Contest_Revenue (INR)', format: (value) => `${Math.round(value)}K` },
+  { label: 'Buyer Percentage', key: 'Buyers_Percentage (%)', isAverage: true, format: (value) => `${Math.round(value)}%` }
 ];
 
 const StatCards = ({ data }) => {
   const totals = fields.map(field => {
-    const value = data.reduce((sum, d) => sum + parseFloat(d[field.key] || 0), 0);
+    let value;
+    if (field.isAverage) {
+      const sum = data.reduce((acc, d) => acc + parseFloat(d[field.key] || 0), 0);
+      value = sum / data.length;
+    } else {
+      value = data.reduce((sum, d) => sum + parseFloat(d[field.key] || 0), 0);
+    }
     return {
       label: field.label,
-      value: field.format(Math.round(value)),
+      value: field.format(value),
     };
   });
 
-  // First row - 4 cards
+  const totalRegistrations = data.reduce((sum, d) => sum + parseFloat(d['Total_Registrations'] || 0), 0);
+  const userCount = data.reduce((sum, d) => sum + parseFloat(d['User_Count'] || 0), 0);
+  const participationRate = ((userCount / totalRegistrations) * 100).toFixed(2);
+
+  totals.splice(4, 0, {
+    label: 'Participation Rate',
+    value: `${participationRate}%`,
+  });
+
   const firstRowCards = totals.slice(0, 4);
-  // Second row - 3 cards
   const secondRowCards = totals.slice(4);
 
   return (
