@@ -10,13 +10,24 @@ import FanLevelTable from '../components/micro-marketing/FanLevelTable';
 import EngagementChart from '../components/micro-marketing/EngagementChart';
 import HierarchicalFlowchart from '../components/micro-marketing/HierarchicalFlowchart';
 import StackedBarChart from '../components/micro-marketing/StackedBarChart';
+import Part3Filters from '../components/micro-marketing/Part3Filters';
+import LoginStatsCard from '../components/micro-marketing/LoginStatsCard';
+import PurchaseStatsChart from '../components/micro-marketing/PurchaseStatsChart';
+import FanLevelLoginPieChart from '../components/micro-marketing/FanLevelLoginPieChart';
+import WeeklyTimeSpentLineChart from '../components/micro-marketing/WeeklyTimeSpentLineChart';
+import PurchaseItemCountByFanLevel from '../components/micro-marketing/PurchaseItemCountByFanLevel';
+import PurchasePriceSumByFanLevel from '../components/micro-marketing/PurchasePriceSumByFanLevel';
 
 export default function MicroMarketingPage() {
   const [csvData, setCsvData] = useState([]);
   const [filteredData, setFilteredData] = useState([]);
+  const [csvDataPart3, setCsvDataPart3] = useState([]);
+  const [filteredDataPart3, setFilteredDataPart3] = useState([]);
   const [activeTab, setActiveTab] = useState('part1');
+  const [isLoadingPart3, setIsLoadingPart3] = useState(false);
 
   useEffect(() => {
+    // Load main CSV data for Part 1 and Part 2
     Papa.parse('/micromarket.csv', {
       download: true,
       header: true,
@@ -26,6 +37,26 @@ export default function MicroMarketingPage() {
       }
     });
   }, []);
+  
+  // Load Part 3 data only when that tab is activated
+  useEffect(() => {
+    if (activeTab === 'part3' && csvDataPart3.length === 0) {
+      setIsLoadingPart3(true);
+      Papa.parse('/micromarket4.csv', {
+        download: true,
+        header: true,
+        complete: (result) => {
+          setCsvDataPart3(result.data);
+          setFilteredDataPart3(result.data);
+          setIsLoadingPart3(false);
+        },
+        error: (error) => {
+          console.error('Error loading Part 3 data:', error);
+          setIsLoadingPart3(false);
+        }
+      });
+    }
+  }, [activeTab, csvDataPart3.length]);
   
   const handleTabChange = (tab) => {
     setActiveTab(tab);
@@ -40,6 +71,17 @@ export default function MicroMarketingPage() {
     });
     
     setFilteredData(data);
+  };
+  
+  const applyFiltersPart3 = (filters) => {
+    let data = csvDataPart3;
+    
+    // Process each filter group
+    Object.entries(filters).forEach(([key, value]) => {
+      if (value) data = data.filter(row => row[key] === value);
+    });
+    
+    setFilteredDataPart3(data);
   };
 
   return (
@@ -126,29 +168,29 @@ export default function MicroMarketingPage() {
         ) : (
           // Part 3 content
           <div className="p-4">
-            <div className="grid grid-cols-1 lg:grid-cols-2 gap-6 max-w-[1200px] mx-auto">
-              {/* Placeholder for Part 3 components */}
-              <div className="bg-gray-900 rounded-lg p-4 shadow-lg">
-                <h3 className="text-xl font-medium mb-4">Component 1</h3>
-                <div className="h-64 flex items-center justify-center bg-gray-800 rounded-lg">
-                  <p className="text-gray-400">Future component will be placed here</p>
-                </div>
+            {isLoadingPart3 ? (
+              <div className="flex items-center justify-center h-64">
+                <div className="animate-spin rounded-full h-12 w-12 border-t-2 border-b-2 border-blue-500"></div>
               </div>
-              
-              <div className="bg-gray-900 rounded-lg p-4 shadow-lg">
-                <h3 className="text-xl font-medium mb-4">Component 2</h3>
-                <div className="h-64 flex items-center justify-center bg-gray-800 rounded-lg">
-                  <p className="text-gray-400">Future component will be placed here</p>
+            ) : (
+              <div className="max-w-[1200px] mx-auto">
+                <Part3Filters data={csvDataPart3} onFilterChange={applyFiltersPart3} />
+
+                <div className="mt-8 grid grid-cols-1 lg:grid-cols-2 gap-6 ">
+                  <LoginStatsCard data={filteredDataPart3} />
+                  <PurchaseStatsChart data={filteredDataPart3} />
                 </div>
-              </div>
-              
-              <div className="bg-gray-900 rounded-lg p-4 shadow-lg col-span-1 lg:col-span-2">
-                <h3 className="text-xl font-medium mb-4">Component 3</h3>
-                <div className="h-96 flex items-center justify-center bg-gray-800 rounded-lg">
-                  <p className="text-gray-400">Future component will be placed here</p>
+                <div className="mt-8 grid grid-cols-1 lg:grid-cols-2 gap-6 ">
+                  <FanLevelLoginPieChart data={filteredDataPart3} />
+                  <WeeklyTimeSpentLineChart data={filteredDataPart3} />
                 </div>
+                <div className="mt-8 grid grid-cols-1 lg:grid-cols-2 gap-6 ">
+                  <PurchaseItemCountByFanLevel data={filteredDataPart3} />
+                  <PurchasePriceSumByFanLevel data={filteredDataPart3} />
+                </div>
+                
               </div>
-            </div>
+            )}
           </div>
         )}
       </div>
