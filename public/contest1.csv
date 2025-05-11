@@ -1,11 +1,11 @@
-,Contest_ID,Contest_Name,Sport_Type,Total_Registrations,User_Count,Total_Logins,Engagement_Rate (%),Bounce_Rate (%),Participation_Rate (%),Total_Time_Spent_Hours,New_Users (%),Returning_Users (%),Contest_Rating ,Avg_Ticket_Price,Contest_Revenue (INR),Average_Score,Buyers,Buyers_Percentage (%)
-0,C001,Football Prediction Challenge,Football,1760,1040,40,3.85,95,59.09,18948.8,55.41,44.59,4.3,24,24960,60.53,12,30
-1,C002,Basketball Trivia Challenge,Basketball,1630,1000,40,4,95,61.35,17300,38.16,61.84,3.66,21,21000,69.8,17,42.5
-2,C003,Football Fantasy League Challenge,Basketball,7200,6420,260,4.05,95,89.17,59834.4,40.76,59.24,4.89,21,134820,62.89,79,30.38
-3,C004,Cricket Trivia Challenge,Cricket,3750,2250,90,4,95,60,32107.5,45.18,54.82,3.54,17,38250,60.8,23,25.56
-4,C005,Basketball Fantasy League Challenge,Football,2490,2190,80,3.65,95,87.95,40427.4,55.6,44.4,4.58,18,39420,80.77,26,32.5
-5,C006,Football Trivia Challenge,Cricket,1350,980,30,3.06,95,72.59,15190,47.69,52.31,4.53,13,12740,80.96,12,40
-6,C007,Basketball Prediction Challenge,Basketball,1340,770,30,3.9,95,57.46,18865,58.98,41.02,4.25,26,20020,72.23,3,10
-7,C008,Football Fantasy League Challenge,Basketball,8210,6520,200,3.07,95,79.42,103537.6,49.32,50.68,3.65,24,156480,72.66,69,34.5
-8,C009,Basketball Prediction Challenge,Cricket,3900,1830,50,2.73,95,46.92,31110,37.86,62.14,4.81,30,54900,83.33,14,28
-9,C010,Football Prediction Challenge,Cricket,9810,7280,270,3.71,95,74.21,63263.2,51.65,48.35,3.53,18,131040,76.86,105,38.89
+,Contest_ID,Contest_Name,Sport_Type,Total_Registrations,User_Count,Total_Logins,Engagement_Rate (%),Bounce_Rate (%),Participation_Rate (%),Total_Time_Spent_Hours,New_Users (%),Returning_Users (%),Contest_Rating (/5),Avg_Ticket_Price,Contest_Revenue (INR),Average_Score,Buyers,Buyers_Percentage (%)
+0,C001,Football Prediction Challenge,Football,1760,1040,40,3.85,38,59.09,18948.8,55.41,44.59,4.3,24,24960,60.53,12,30
+1,C002,Basketball Trivia Challenge,Basketball,1630,1000,40,4,44,61.35,17300,38.16,61.84,3.66,21,21000,69.8,17,42.5
+2,C003,Football Fantasy League Challenge,Football,7200,6420,260,4.05,44,89.17,59834.4,40.76,59.24,4.89,21,134820,62.89,79,30.38
+3,C004,Cricket Trivia Challenge,Cricket,3750,2250,90,4,44,60,32107.5,45.18,54.82,3.54,17,38250,60.8,23,25.56
+4,C005,Basketball Fantasy League Challenge,Football,2490,2190,80,3.65,34,87.95,40427.4,55.6,44.4,4.58,18,39420,80.77,26,32.5
+5,C006,Football Trivia Challenge,Football,1350,980,30,3.06,40,72.59,15190,47.69,52.31,4.53,13,12740,80.96,12,40
+6,C007,Basketball Prediction Challenge,Basketball,1340,770,30,3.9,38,57.46,18865,58.98,41.02,4.25,26,20020,72.23,3,10
+7,C008,Football Fantasy League Challenge,Football,8210,6520,200,3.07,50,79.42,103537.6,49.32,50.68,3.65,24,156480,72.66,69,34.5
+8,C009,Basketball Prediction Challenge,Cricket,3900,1830,50,2.73,42,46.92,31110,37.86,62.14,4.81,30,54900,83.33,14,28
+9,C010,Football Prediction Challenge,Football,9810,7280,270,3.71,38,74.21,63263.2,51.65,48.35,3.53,18,131040,76.86,105,38.89

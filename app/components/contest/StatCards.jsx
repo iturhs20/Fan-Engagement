@@ -4,7 +4,7 @@ const fields = [
   { label: 'Total Registration', key: 'Total_Registrations', format: (value) => `${Math.round(value)}K` },
   { label: 'User Count', key: 'User_Count', format: (value) => `${Math.round(value)}K` },
   { label: 'Engagement Rate', key: 'Engagement_Rate (%)', format: (value) => `${Math.round(value)}%` },
-  { label: 'Bounce Rate', key: 'Bounce_Rate (%)', format: (value) => `${Math.round(value)}%` },
+  { label: 'Bounce Rate', key: 'Bounce_Rate (%)', isAverage: true, format: (value) => `${Math.round(value)}%` },
   { label: 'Contest Revenue', key: 'Contest_Revenue (INR)', format: (value) => `${Math.round(value)}K` },
   { label: 'Buyer Percentage', key: 'Buyers_Percentage (%)', isAverage: true, format: (value) => `${Math.round(value)}%` }
 ];
